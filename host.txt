@@ -3,7 +3,7 @@
 127.0.0.1  localhost
 ::1  localhost
 
-#Block Google
+#THis blocks google.com
 127.0.0.1 google.com
 127.0.0.1 www.google.com
 127.0.0.1 www.google-analytics.com
@@ -89,7 +89,7 @@
 127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 ir-de.amazon-adsystem.com
-127.0.0.1	device-metrics-us-2.amazon.com
+127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 ws.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 rcm.amazon.com
@@ -101,265 +101,265 @@
 127.0.0.1 akamai.net
 
 #Facebook Total Block
-127.0.0.1	www.facebook.com
-127.0.0.1	facebook.com
-127.0.0.1	facebook.net www.facebook.net
-127.0.0.1	graph.facebook.com
-127.0.0.1	dev.facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 facebook.net www.facebook.net
+127.0.0.1 graph.facebook.com
+127.0.0.1 dev.facebook.com
 
-127.0.0.1	api.ak.facebook.com
-127.0.0.1	api.connect.facebook.com
-127.0.0.1	api.facebook.com
-127.0.0.1	app.facebook.com
-127.0.0.1	apps.facebook.com
-127.0.0.1	ar-ar.facebook.com
-127.0.0.1	badge.facebook.com
-127.0.0.1	blog.facebook.com
-127.0.0.1	connect.facebook.com
-127.0.0.1	connect.facebook.net www.connect.facebook.net
+127.0.0.1 api.ak.facebook.com
+127.0.0.1 api.connect.facebook.com
+127.0.0.1 api.facebook.com
+127.0.0.1 app.facebook.com
+127.0.0.1 apps.facebook.com
+127.0.0.1 ar-ar.facebook.com
+127.0.0.1 badge.facebook.com
+127.0.0.1 blog.facebook.com
+127.0.0.1 connect.facebook.com
+127.0.0.1 connect.facebook.net www.connect.facebook.net
 
-127.0.0.1	de-de.facebook.com
-127.0.0.1	developers.facebook.com
-127.0.0.1	es-la.facebook.com
-127.0.0.1	external.ak.fbcdn.net
-127.0.0.1	facebook.de
-127.0.0.1	facebook.fr
-127.0.0.1	fb.me
-127.0.0.1	fbcdn.net
-127.0.0.1	fr-fr.facebook.com
-127.0.0.1	hi-in.facebook.com
-127.0.0.1	it-it.facebook.com
-127.0.0.1	ja-jp.facebook.com
-127.0.0.1	login.facebook.com
-127.0.0.1	profile.ak.fbcdn.net
-127.0.0.1	pt-br.facebook.com
-127.0.0.1	ssl.connect.facebook.com
-127.0.0.1	static.ak.connect.facebook.com
-127.0.0.1	static.ak.fbcdn.net
-127.0.0.1	integrity.facebook.com
-127.0.0.1	pan.facebook.com
-127.0.0.1	tulip.facebook.com
-127.0.0.1	nss.facebook.com
-127.0.0.1	es.facebook.com
-127.0.0.1	digits.facebook.com
-127.0.0.1	tr.facebook.com
-127.0.0.1	buffer.facebook.com
-127.0.0.1	cms.facebook.com
-127.0.0.1	demos.facebook.com
-127.0.0.1	ca-es.facebook.com
-127.0.0.1	management.facebook.com
-127.0.0.1	src.facebook.com
-127.0.0.1	api.facebook.com
-127.0.0.1	ar-ar.facebook.com
-127.0.0.1	sim.facebook.com
-127.0.0.1	ja-jp.facebook.com
-127.0.0.1	job.facebook.com
-127.0.0.1	iso.facebook.com
-127.0.0.1	blog.facebook.com
-127.0.0.1	et-ee.facebook.com
-127.0.0.1	just.facebook.com
-127.0.0.1	ja-ks.facebook.com
-127.0.0.1	lt-lt.facebook.com
-127.0.0.1	govtrequests.facebook.com
-127.0.0.1	hp.facebook.com
-127.0.0.1	fa-ir.facebook.com
-127.0.0.1	wave.facebook.com
-127.0.0.1	conectadosbancogalicia.facebook.com
-127.0.0.1	ru-ru.facebook.com
-127.0.0.1	rand.facebook.com
-127.0.0.1	workplace.facebook.com
-127.0.0.1	pt-br.facebook.com
-127.0.0.1	touch.facebook.com
-127.0.0.1	health.facebook.com
-127.0.0.1	www.prod.facebook.com
-127.0.0.1	express.facebook.com
-127.0.0.1	code.facebook.com
-127.0.0.1	de-de.facebook.com
-127.0.0.1	pl-pl.facebook.com
-127.0.0.1	discovery.facebook.com
-127.0.0.1	onevedanta.facebook.com
-127.0.0.1	dav.facebook.com
-127.0.0.1	zh-cn.facebook.com
-127.0.0.1	sos.facebook.com
-127.0.0.1	energy.facebook.com
-127.0.0.1	cpanel.facebook.com
-127.0.0.1	hr-hr.facebook.com
-127.0.0.1	complex.facebook.com
-127.0.0.1	development.facebook.com
-127.0.0.1	nl-be.facebook.com
-127.0.0.1	tr-tr.facebook.com
-127.0.0.1	register.facebook.com
-127.0.0.1	tools.facebook.com
-127.0.0.1	iphone.facebook.com
-127.0.0.1	ro.facebook.com
-127.0.0.1	gaming.facebook.com
-127.0.0.1	fr-fr.prod.facebook.com
-127.0.0.1	he-il.facebook.com
-127.0.0.1	sr-rs.facebook.com
-127.0.0.1	quote.facebook.com
-127.0.0.1	tickets.facebook.com
-127.0.0.1	asia.facebook.com
-127.0.0.1	stack.facebook.com
-127.0.0.1	echo.facebook.com
-127.0.0.1	redhat.facebook.com
-127.0.0.1	apple.facebook.com
-127.0.0.1	dns.facebook.com
-127.0.0.1	business.facebook.com
-127.0.0.1	new.facebook.com
-127.0.0.1	staff.facebook.com
-127.0.0.1	bc.facebook.com
-127.0.0.1	student.facebook.com
-127.0.0.1	es-es.facebook.com
-127.0.0.1	sk-sk.facebook.com
-127.0.0.1	error.facebook.com
-127.0.0.1	pro.facebook.com
-127.0.0.1	my.facebook.com
-127.0.0.1	social.facebook.com
-127.0.0.1	af-za.facebook.com
-127.0.0.1	vector.facebook.com
-127.0.0.1	ssl.facebook.com
-127.0.0.1	cisco.facebook.com
-127.0.0.1	sv-se.facebook.com
-127.0.0.1	fr.facebook.com
-127.0.0.1	grid.facebook.com
-127.0.0.1	mbasic.facebook.com
-127.0.0.1	email.facebook.com
-127.0.0.1	africa.facebook.com
-127.0.0.1	it.facebook.com
-127.0.0.1	europe.facebook.com
-127.0.0.1	trends.facebook.com
-127.0.0.1	wwww.facebook.com
-127.0.0.1	tm.facebook.com
-127.0.0.1	en-gb.facebook.com
-127.0.0.1	accounts.facebook.com
-127.0.0.1	source.facebook.com
-127.0.0.1	portal.facebook.com
-127.0.0.1	nl-nl.facebook.com
-127.0.0.1	login.facebook.com
-127.0.0.1	ko-kr.facebook.com
-127.0.0.1	zh-hk.facebook.com
-127.0.0.1	th-th.facebook.com
-127.0.0.1	osn.facebook.com
-127.0.0.1	bridge.facebook.com
-127.0.0.1	gps.facebook.com
-127.0.0.1	is-is.facebook.com
-127.0.0.1	sl-si.facebook.com
-127.0.0.1	technic.facebook.com
-127.0.0.1	fr-fr.facebook.com
-127.0.0.1	keep-alive.facebook.com
-127.0.0.1	c.facebook.com
-127.0.0.1	ka-ge.facebook.com
-127.0.0.1	event.facebook.com
-127.0.0.1	bind.facebook.com
-127.0.0.1	ap.facebook.com
-127.0.0.1	jobs.facebook.com
-127.0.0.1	ns.facebook.com
-127.0.0.1	sandbox.facebook.com
-127.0.0.1	terms.facebook.com
-127.0.0.1	td.facebook.com
-127.0.0.1	phone.facebook.com
-127.0.0.1	bs-ba.facebook.com
-127.0.0.1	az-az.facebook.com
-127.0.0.1	sp.facebook.com
-127.0.0.1	citrix.facebook.com
-127.0.0.1	upload.facebook.com
-127.0.0.1	webmail.facebook.com
-127.0.0.1	hu-hu.facebook.com
-127.0.0.1	resolver.facebook.com
-127.0.0.1	beta.facebook.com
-127.0.0.1	secure.facebook.com
-127.0.0.1	connect.facebook.com
-127.0.0.1	m.facebook.com
-127.0.0.1	x.facebook.com
-127.0.0.1	ads.facebook.com
-127.0.0.1	vip.facebook.com
-127.0.0.1	facebook.com
-127.0.0.1	www.facebook.com
-127.0.0.1	l.facebook.com
-127.0.0.1	d.facebook.com
-127.0.0.1	z.facebook.com
-127.0.0.1	free.facebook.com
-127.0.0.1	n.facebook.com
-127.0.0.1	mobile.facebook.com
-127.0.0.1	p.facebook.com
-127.0.0.1	extern.facebook.com
-127.0.0.1	intern.facebook.com
-127.0.0.1	developers.facebook.com
-127.0.0.1	community.facebook.com
-127.0.0.1	driver.facebook.com
-127.0.0.1	es-la.facebook.com
-127.0.0.1	canvas.facebook.com
-127.0.0.1	it-it.facebook.com
-127.0.0.1	blue.facebook.com
-127.0.0.1	w.facebook.com
-127.0.0.1	radius.facebook.com
-127.0.0.1	zh-tw.facebook.com
-127.0.0.1	pata.facebook.com
-127.0.0.1	da-dk.facebook.com
-127.0.0.1	ida.facebook.com
-127.0.0.1	transport.facebook.com
-127.0.0.1	cs-cz.facebook.com
-127.0.0.1	afa.facebook.com
-127.0.0.1	ww.facebook.com
-127.0.0.1	bg-bg.facebook.com
-127.0.0.1	maxim.facebook.com
-127.0.0.1	intro.facebook.com
-127.0.0.1	vi-vn.facebook.com
-127.0.0.1	ro-ro.facebook.com
-127.0.0.1	apps.facebook.com
-127.0.0.1	results.facebook.com
-127.0.0.1	msg.facebook.com
-127.0.0.1	update.facebook.com
-127.0.0.1	fr-ca.facebook.com
-127.0.0.1	pt-pt.facebook.com
-127.0.0.1	mysql.facebook.com
-127.0.0.1	fusion.facebook.com
-127.0.0.1	boost.facebook.com
-127.0.0.1	e127.0.0.1l-gr.facebook.com
-127.0.0.1	axis.facebook.com
-127.0.0.1	border.facebook.com
-127.0.0.1	sap.facebook.com
-127.0.0.1	fi-fi.facebook.com
-127.0.0.1	id-id.facebook.com
-127.0.0.1	vlan.facebook.com
-127.0.0.1	ole.facebook.com
-127.0.0.1	cvs.facebook.com
-127.0.0.1	headlines.facebook.com
-127.0.0.1	switch.facebook.com
-127.0.0.1	ipc.facebook.com
-127.0.0.1	target.facebook.com
-127.0.0.1	doc.facebook.com
-127.0.0.1	ta-in.facebook.com
-127.0.0.1	asus.facebook.com
-127.0.0.1	static.facebook.com
-127.0.0.1	local.facebook.com
-127.0.0.1	t.facebook.com
-127.0.0.1	ibm.facebook.com
-127.0.0.1	shop.facebook.com
-127.0.0.1	ms-my.facebook.com
-127.0.0.1	virtual.facebook.com
-127.0.0.1	cgi.facebook.com
-127.0.0.1	premier.facebook.com
-127.0.0.1	vmware.facebook.com
-127.0.0.1	nb-no.facebook.com
-127.0.0.1	nn-no.facebook.com
-127.0.0.1	about.facebook.com
-127.0.0.1	light.facebook.com
-127.0.0.1	o.facebook.com
-127.0.0.1	0.facebook.com
-127.0.0.1	www2.facebook.com
-127.0.0.1	web.facebook.com
-127.0.0.1	h.facebook.com
-127.0.0.1	sms.facebook.com
-127.0.0.1	ext.facebook.com
+127.0.0.1 de-de.facebook.com
+127.0.0.1 developers.facebook.com
+127.0.0.1 es-la.facebook.com
+127.0.0.1 external.ak.fbcdn.net
+127.0.0.1 facebook.de
+127.0.0.1 facebook.fr
+127.0.0.1 fb.me
+127.0.0.1 fbcdn.net
+127.0.0.1 fr-fr.facebook.com
+127.0.0.1 hi-in.facebook.com
+127.0.0.1 it-it.facebook.com
+127.0.0.1 ja-jp.facebook.com
+127.0.0.1 login.facebook.com
+127.0.0.1 profile.ak.fbcdn.net
+127.0.0.1 pt-br.facebook.com
+127.0.0.1 ssl.connect.facebook.com
+127.0.0.1 static.ak.connect.facebook.com
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 integrity.facebook.com
+127.0.0.1 pan.facebook.com
+127.0.0.1 tulip.facebook.com
+127.0.0.1 nss.facebook.com
+127.0.0.1 es.facebook.com
+127.0.0.1 digits.facebook.com
+127.0.0.1 tr.facebook.com
+127.0.0.1 buffer.facebook.com
+127.0.0.1 cms.facebook.com
+127.0.0.1 demos.facebook.com
+127.0.0.1 ca-es.facebook.com
+127.0.0.1 management.facebook.com
+127.0.0.1 src.facebook.com
+127.0.0.1 api.facebook.com
+127.0.0.1 ar-ar.facebook.com
+127.0.0.1 sim.facebook.com
+127.0.0.1 ja-jp.facebook.com
+127.0.0.1 job.facebook.com
+127.0.0.1 iso.facebook.com
+127.0.0.1 blog.facebook.com
+127.0.0.1 et-ee.facebook.com
+127.0.0.1 just.facebook.com
+127.0.0.1 ja-ks.facebook.com
+127.0.0.1 lt-lt.facebook.com
+127.0.0.1 govtrequests.facebook.com
+127.0.0.1 hp.facebook.com
+127.0.0.1 fa-ir.facebook.com
+127.0.0.1 wave.facebook.com
+127.0.0.1 conectadosbancogalicia.facebook.com
+127.0.0.1 ru-ru.facebook.com
+127.0.0.1 rand.facebook.com
+127.0.0.1 workplace.facebook.com
+127.0.0.1 pt-br.facebook.com
+127.0.0.1 touch.facebook.com
+127.0.0.1 health.facebook.com
+127.0.0.1 www.prod.facebook.com
+127.0.0.1 express.facebook.com
+127.0.0.1 code.facebook.com
+127.0.0.1 de-de.facebook.com
+127.0.0.1 pl-pl.facebook.com
+127.0.0.1 discovery.facebook.com
+127.0.0.1 onevedanta.facebook.com
+127.0.0.1 dav.facebook.com
+127.0.0.1 zh-cn.facebook.com
+127.0.0.1 sos.facebook.com
+127.0.0.1 energy.facebook.com
+127.0.0.1 cpanel.facebook.com
+127.0.0.1 hr-hr.facebook.com
+127.0.0.1 complex.facebook.com
+127.0.0.1 development.facebook.com
+127.0.0.1 nl-be.facebook.com
+127.0.0.1 tr-tr.facebook.com
+127.0.0.1 register.facebook.com
+127.0.0.1 tools.facebook.com
+127.0.0.1 iphone.facebook.com
+127.0.0.1 ro.facebook.com
+127.0.0.1 gaming.facebook.com
+127.0.0.1 fr-fr.prod.facebook.com
+127.0.0.1 he-il.facebook.com
+127.0.0.1 sr-rs.facebook.com
+127.0.0.1 quote.facebook.com
+127.0.0.1 tickets.facebook.com
+127.0.0.1 asia.facebook.com
+127.0.0.1 stack.facebook.com
+127.0.0.1 echo.facebook.com
+127.0.0.1 redhat.facebook.com
+127.0.0.1 apple.facebook.com
+127.0.0.1 dns.facebook.com
+127.0.0.1 business.facebook.com
+127.0.0.1 new.facebook.com
+127.0.0.1 staff.facebook.com
+127.0.0.1 bc.facebook.com
+127.0.0.1 student.facebook.com
+127.0.0.1 es-es.facebook.com
+127.0.0.1 sk-sk.facebook.com
+127.0.0.1 error.facebook.com
+127.0.0.1 pro.facebook.com
+127.0.0.1 my.facebook.com
+127.0.0.1 social.facebook.com
+127.0.0.1 af-za.facebook.com
+127.0.0.1 vector.facebook.com
+127.0.0.1 ssl.facebook.com
+127.0.0.1 cisco.facebook.com
+127.0.0.1 sv-se.facebook.com
+127.0.0.1 fr.facebook.com
+127.0.0.1 grid.facebook.com
+127.0.0.1 mbasic.facebook.com
+127.0.0.1 email.facebook.com
+127.0.0.1 africa.facebook.com
+127.0.0.1 it.facebook.com
+127.0.0.1 europe.facebook.com
+127.0.0.1 trends.facebook.com
+127.0.0.1 wwww.facebook.com
+127.0.0.1 tm.facebook.com
+127.0.0.1 en-gb.facebook.com
+127.0.0.1 accounts.facebook.com
+127.0.0.1 source.facebook.com
+127.0.0.1 portal.facebook.com
+127.0.0.1 nl-nl.facebook.com
+127.0.0.1 login.facebook.com
+127.0.0.1 ko-kr.facebook.com
+127.0.0.1 zh-hk.facebook.com
+127.0.0.1 th-th.facebook.com
+127.0.0.1 osn.facebook.com
+127.0.0.1 bridge.facebook.com
+127.0.0.1 gps.facebook.com
+127.0.0.1 is-is.facebook.com
+127.0.0.1 sl-si.facebook.com
+127.0.0.1 technic.facebook.com
+127.0.0.1 fr-fr.facebook.com
+127.0.0.1 keep-alive.facebook.com
+127.0.0.1 c.facebook.com
+127.0.0.1 ka-ge.facebook.com
+127.0.0.1 event.facebook.com
+127.0.0.1 bind.facebook.com
+127.0.0.1 ap.facebook.com
+127.0.0.1 jobs.facebook.com
+127.0.0.1 ns.facebook.com
+127.0.0.1 sandbox.facebook.com
+127.0.0.1 terms.facebook.com
+127.0.0.1 td.facebook.com
+127.0.0.1 phone.facebook.com
+127.0.0.1 bs-ba.facebook.com
+127.0.0.1 az-az.facebook.com
+127.0.0.1 sp.facebook.com
+127.0.0.1 citrix.facebook.com
+127.0.0.1 upload.facebook.com
+127.0.0.1 webmail.facebook.com
+127.0.0.1 hu-hu.facebook.com
+127.0.0.1 resolver.facebook.com
+127.0.0.1 beta.facebook.com
+127.0.0.1 secure.facebook.com
+127.0.0.1 connect.facebook.com
+127.0.0.1 m.facebook.com
+127.0.0.1 x.facebook.com
+127.0.0.1 ads.facebook.com
+127.0.0.1 vip.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 l.facebook.com
+127.0.0.1 d.facebook.com
+127.0.0.1 z.facebook.com
+127.0.0.1 free.facebook.com
+127.0.0.1 n.facebook.com
+127.0.0.1 mobile.facebook.com
+127.0.0.1 p.facebook.com
+127.0.0.1 extern.facebook.com
+127.0.0.1 intern.facebook.com
+127.0.0.1 developers.facebook.com
+127.0.0.1 community.facebook.com
+127.0.0.1 driver.facebook.com
+127.0.0.1 es-la.facebook.com
+127.0.0.1 canvas.facebook.com
+127.0.0.1 it-it.facebook.com
+127.0.0.1 blue.facebook.com
+127.0.0.1 w.facebook.com
+127.0.0.1 radius.facebook.com
+127.0.0.1 zh-tw.facebook.com
+127.0.0.1 pata.facebook.com
+127.0.0.1 da-dk.facebook.com
+127.0.0.1 ida.facebook.com
+127.0.0.1 transport.facebook.com
+127.0.0.1 cs-cz.facebook.com
+127.0.0.1 afa.facebook.com
+127.0.0.1 ww.facebook.com
+127.0.0.1 bg-bg.facebook.com
+127.0.0.1 maxim.facebook.com
+127.0.0.1 intro.facebook.com
+127.0.0.1 vi-vn.facebook.com
+127.0.0.1 ro-ro.facebook.com
+127.0.0.1 apps.facebook.com
+127.0.0.1 results.facebook.com
+127.0.0.1 msg.facebook.com
+127.0.0.1 update.facebook.com
+127.0.0.1 fr-ca.facebook.com
+127.0.0.1 pt-pt.facebook.com
+127.0.0.1 mysql.facebook.com
+127.0.0.1 fusion.facebook.com
+127.0.0.1 boost.facebook.com
+127.0.0.1 e127.0.0.1l-gr.facebook.com
+127.0.0.1 axis.facebook.com
+127.0.0.1 border.facebook.com
+127.0.0.1 sap.facebook.com
+127.0.0.1 fi-fi.facebook.com
+127.0.0.1 id-id.facebook.com
+127.0.0.1 vlan.facebook.com
+127.0.0.1 ole.facebook.com
+127.0.0.1 cvs.facebook.com
+127.0.0.1 headlines.facebook.com
+127.0.0.1 switch.facebook.com
+127.0.0.1 ipc.facebook.com
+127.0.0.1 target.facebook.com
+127.0.0.1 doc.facebook.com
+127.0.0.1 ta-in.facebook.com
+127.0.0.1 asus.facebook.com
+127.0.0.1 static.facebook.com
+127.0.0.1 local.facebook.com
+127.0.0.1 t.facebook.com
+127.0.0.1 ibm.facebook.com
+127.0.0.1 shop.facebook.com
+127.0.0.1 ms-my.facebook.com
+127.0.0.1 virtual.facebook.com
+127.0.0.1 cgi.facebook.com
+127.0.0.1 premier.facebook.com
+127.0.0.1 vmware.facebook.com
+127.0.0.1 nb-no.facebook.com
+127.0.0.1 nn-no.facebook.com
+127.0.0.1 about.facebook.com
+127.0.0.1 light.facebook.com
+127.0.0.1 o.facebook.com
+127.0.0.1 0.facebook.com
+127.0.0.1 www2.facebook.com
+127.0.0.1 web.facebook.com
+127.0.0.1 h.facebook.com
+127.0.0.1 sms.facebook.com
+127.0.0.1 ext.facebook.com
 
 #Google Analytics + ads + Recaptcha
 127.0.0.1 smartlock.google.com
 #127.0.0.1 google.co.jp www.google.co.jp
-127.0.0.1	cm.g.doubleclick.net
-127.0.0.1	www.doubleclick.net
-127.0.0.1	doubleclick.net
-127.0.0.1	www.doubleclick.net
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 www.doubleclick.net
+127.0.0.1 doubleclick.net
+127.0.0.1 www.doubleclick.net
 127.0.0.1 api-secure.recaptcha.net
 #127.0.0.1 accounts.google.com
 127.0.0.1 recaptcha.net www.recaptcha.net
@@ -377,26 +377,26 @@
 127.0.0.1 lh6.googleusercontent.
 127.0.0.1 googleusercontent.com
 127.0.0.1 www-google-analytics.l.google.com
-127.0.0.1	stats.g.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
 #127.0.0.1 clients.l.google.com
-127.0.0.1	pagead.l.doubleclick.net
+127.0.0.1 pagead.l.doubleclick.net
 127.0.0.1 www-googletagmanager.l.google.com
-127.0.0.1	googleadapis.l.google.com
-127.0.0.1	www.googleapis.com
-127.0.0.1	safebrowsing.google.com
-127.0.0.1	adservice.google.nl
-127.0.0.1	fgoogle.com
-127.0.0.1	googletagservices.com
-127.0.0.1	video-stats.video.google.com
-127.0.0.1	googletagservices.com www.googletagservices.com
-127.0.0.1	googletagmanager.com www.googletagmanager.com
+127.0.0.1 googleadapis.l.google.com
+127.0.0.1 www.googleapis.com
+127.0.0.1 safebrowsing.google.com
+127.0.0.1 adservice.google.nl
+127.0.0.1 fgoogle.com
+127.0.0.1 googletagservices.com
+127.0.0.1 video-stats.video.google.com
+127.0.0.1 googletagservices.com www.googletagservices.com
+127.0.0.1 googletagmanager.com www.googletagmanager.com
 127.0.0.1 www.googletagmanager.com
-127.0.0.1	adservice.google.com.br
-127.0.0.1	adservice.google.com
-127.0.0.1	adservice.google.jp
-127.0.0.1	adservice.google.co.jp
-127.0.0.1	adservice.google.co.nz
-127.0.0.1	adservice.google.net
+127.0.0.1 adservice.google.com.br
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.jp
+127.0.0.1 adservice.google.co.jp
+127.0.0.1 adservice.google.co.nz
+127.0.0.1 adservice.google.net
 #127.0.0.1 ssl.gstatic.com
 127.0.0.1 play.google.com
 127.0.0.1 inputtools.google.com
@@ -433,90 +433,90 @@
 127.0.0.1 ad.doubleclick.net.76466.9624.302br.net
 127.0.0.1 ad-creatives-public.commondatastorage.googleapis.com
 127.0.0.1 tpc.googlesyndication.com
-127.0.0.1	adservice.google.nl
+127.0.0.1 adservice.google.nl
 #127.0.0.1 plus.google.com
 127.0.0.1 doubleask.com www.doubleask.com
 127.0.0.1 www.googletagservices.com
-127.0.0.1	googletagservices.com
-127.0.0.1	fgoogle.com
-127.0.0.1	adservice.google.co.in
+127.0.0.1 googletagservices.com
+127.0.0.1 fgoogle.com
+127.0.0.1 adservice.google.co.in
 
 
 # Hosts contributed by Steven Black
-127.0.0.1	1493361689.rsc.cdn77.org
-127.0.0.1	30-day-change.com
-127.0.0.1	2468.go2cloud.org
-127.0.0.1	adsmws.cloudapp.net
-127.0.0.1	androidads23.adcolony.com
-127.0.0.1	analytics.publitas.com
-127.0.0.1	annualconsumersurvey.com
-127.0.0.1	amarktflow.com
-127.0.0.1	apps.id.net
-127.0.0.1	breaksurvey.com
-127.0.0.1	data.cnn.com
-127.0.0.1	canuck-method.com
-127.0.0.1	consumerproductsusa.com
-127.0.0.1	ceromobi.club
-127.0.0.1	com-notice.info
-127.0.0.1	www.com-notice.info
-127.0.0.1	apple.com-notice.info
-127.0.0.1	www.apple.com-notice.info
-127.0.0.1	support.apple.com-notice.info
-127.0.0.1	www.support.apple.com-notice.info
-127.0.0.1	darkpage.win
-127.0.0.1	dobre-programy.pl
-127.0.0.1	dobre-programy.xyz
-127.0.0.1	dobreprogramy.pro
-127.0.0.1	www.canuck-method.com
-127.0.0.1	largeloot.com
-127.0.0.1	letitbefaster.website
-127.0.0.1	login.dotomi.com
-127.0.0.1	login.dotomi.net
-127.0.0.1	external.stealthedeal.com
-127.0.0.1	goodblock.gladly.io
-127.0.0.1	jackbootedroom.com
-127.0.0.1	mackeeperapp.zeobit.com
-127.0.0.1	montrealgazette.stats.com
-127.0.0.1	hosted.stats.com
-127.0.0.1	hosted.stats.com.edgesuite.net
-127.0.0.1	howupdateworks.amazingupdates4youtoday.website
-127.0.0.1	mysterysnooper.com
-127.0.0.1	mywot.com
-127.0.0.1	mywot.net
-127.0.0.1	onlineusagesurveys.com
-127.0.0.1	open.oneplus.net
-127.0.0.1	promotions.yourfirstmillion.biz
-127.0.0.1	quickcash-system.com
-127.0.0.1	save-your-pc.info
-127.0.0.1	sportsinteraction.com
-127.0.0.1	www.sportsinteraction.com
-127.0.0.1	embed.sendtonews.com
-127.0.0.1	performanceadexchange.com
-127.0.0.1	www.performanceadexchange.com
-127.0.0.1	privacyassistant.net
-127.0.0.1	ext.privacyassistant.net
-127.0.0.1	pussysaga.com
-127.0.0.1	www.pussysaga.com
-127.0.0.1	promotion.com-rewards.club
-127.0.0.1	rereddit.com
-127.0.0.1	s.zkcdn.net
-127.0.0.1	sixstitch.win
-127.0.0.1	specialsections.siteseer.ca
-127.0.0.1	stealthedeal.com
-127.0.0.1	tags.news.com.au
-127.0.0.1	torrenty-org.pl
-127.0.0.1	tracking.lenzmx.com
+127.0.0.1 1493361689.rsc.cdn77.org
+127.0.0.1 30-day-change.com
+127.0.0.1 2468.go2cloud.org
+127.0.0.1 adsmws.cloudapp.net
+127.0.0.1 androidads23.adcolony.com
+127.0.0.1 analytics.publitas.com
+127.0.0.1 annualconsumersurvey.com
+127.0.0.1 amarktflow.com
+127.0.0.1 apps.id.net
+127.0.0.1 breaksurvey.com
+127.0.0.1 data.cnn.com
+127.0.0.1 canuck-method.com
+127.0.0.1 consumerproductsusa.com
+127.0.0.1 ceromobi.club
+127.0.0.1 com-notice.info
+127.0.0.1 www.com-notice.info
+127.0.0.1 apple.com-notice.info
+127.0.0.1 www.apple.com-notice.info
+127.0.0.1 support.apple.com-notice.info
+127.0.0.1 www.support.apple.com-notice.info
+127.0.0.1 darkpage.win
+127.0.0.1 dobre-programy.pl
+127.0.0.1 dobre-programy.xyz
+127.0.0.1 dobreprogramy.pro
+127.0.0.1 www.canuck-method.com
+127.0.0.1 largeloot.com
+127.0.0.1 letitbefaster.website
+127.0.0.1 login.dotomi.com
+127.0.0.1 login.dotomi.net
+127.0.0.1 external.stealthedeal.com
+127.0.0.1 goodblock.gladly.io
+127.0.0.1 jackbootedroom.com
+127.0.0.1 mackeeperapp.zeobit.com
+127.0.0.1 montrealgazette.stats.com
+127.0.0.1 hosted.stats.com
+127.0.0.1 hosted.stats.com.edgesuite.net
+127.0.0.1 howupdateworks.amazingupdates4youtoday.website
+127.0.0.1 mysterysnooper.com
+127.0.0.1 mywot.com
+127.0.0.1 mywot.net
+127.0.0.1 onlineusagesurveys.com
+127.0.0.1 open.oneplus.net
+127.0.0.1 promotions.yourfirstmillion.biz
+127.0.0.1 quickcash-system.com
+127.0.0.1 save-your-pc.info
+127.0.0.1 sportsinteraction.com
+127.0.0.1 www.sportsinteraction.com
+127.0.0.1 embed.sendtonews.com
+127.0.0.1 performanceadexchange.com
+127.0.0.1 www.performanceadexchange.com
+127.0.0.1 privacyassistant.net
+127.0.0.1 ext.privacyassistant.net
+127.0.0.1 pussysaga.com
+127.0.0.1 www.pussysaga.com
+127.0.0.1 promotion.com-rewards.club
+127.0.0.1 rereddit.com
+127.0.0.1 s.zkcdn.net
+127.0.0.1 sixstitch.win
+127.0.0.1 specialsections.siteseer.ca
+127.0.0.1 stealthedeal.com
+127.0.0.1 tags.news.com.au
+127.0.0.1 torrenty-org.pl
+127.0.0.1 tracking.lenzmx.com
 127.0.0.1 www.crx4chrome.com
-127.0.0.1	ttwitter.com
-127.0.0.1	vdtrack.com
-127.0.0.1	www.vdtrack.com
-127.0.0.1	virtual.thewhig.com
-127.0.0.1	www.dobre-programy.pl
+127.0.0.1 ttwitter.com
+127.0.0.1 vdtrack.com
+127.0.0.1 www.vdtrack.com
+127.0.0.1 virtual.thewhig.com
+127.0.0.1 www.dobre-programy.pl
 127.0.0.1 www.quickcash-system.com
 127.0.0.1 www.diptanuinfo.co.cc
 127.0.0.1 www.mywot.com
 127.0.0.1 www.mywot.net
-127.0.0.1	www.torrenty-org.pl
+127.0.0.1 www.torrenty-org.pl
 127.0.0.1 urldelivery.com
 127.0.0.1 www.urldelivery.com
 127.0.0.1 files.ctnet4.space
@@ -528,809 +528,800 @@
 127.0.0.1 postmediamontrealgazette2.files.wordpress.com
 127.0.0.1 cdnapi.kaltura.com
 127.0.0.1 tvmds.tvpassport.com
-127.0.0.1	stats.wp.com
-127.0.0.1	4436230.fls.doubleclick.net
-127.0.0.1	aoredi.com
-127.0.0.1	imysurvey.com
-127.0.0.1	gamblerush.com
-127.0.0.1	security-check-551.com
-127.0.0.1	www.cpm20.com
-127.0.0.1	btds.artplay.info
-127.0.0.1	www.aoredi.com
-127.0.0.1	www.imysurvey.com
-127.0.0.1	www.gamblerush.com
-127.0.0.1	www.security-check-551.com
-127.0.0.1	www.www.cpm20.com
-127.0.0.1	www.btds.artplay.info
-127.0.0.1	videoplayer.vice.technology
-127.0.0.1	bacr.com.pk
-127.0.0.1	pakistanelevators.pk
+127.0.0.1 stats.wp.com
+127.0.0.1 4436230.fls.doubleclick.net
+127.0.0.1 aoredi.com
+127.0.0.1 imysurvey.com
+127.0.0.1 gamblerush.com
+127.0.0.1 security-check-551.com
+127.0.0.1 www.cpm20.com
+127.0.0.1 btds.artplay.info
+127.0.0.1 www.aoredi.com
+127.0.0.1 www.imysurvey.com
+127.0.0.1 www.gamblerush.com
+127.0.0.1 www.security-check-551.com
+127.0.0.1 www.www.cpm20.com
+127.0.0.1 www.btds.artplay.info
+127.0.0.1 videoplayer.vice.technology
+127.0.0.1 bacr.com.pk
+127.0.0.1 pakistanelevators.pk
 
 # Analytics
 127.0.0.1 edgekey.net
 127.0.0.1 79423.analytics.edgekey.net
 127.0.0.1 cdn.kastatic.org
-127.0.0.1	analysis.polarisoffice.com
-127.0.0.1	analytics-digit-in.cdn.ampproject.org
-127.0.0.1	analytics.cloudron.io
-127.0.0.1	analytics.colacoweb.net
-127.0.0.1	analytics.digit.in
-127.0.0.1	analytics.jabong.com
-127.0.0.1	analytics.lk.api.ditto.com
-127.0.0.1	analytics.logsss.com
-127.0.0.1	analytics.mailmunch.co
-127.0.0.1	analytics.mopub.com
-127.0.0.1	analytics.mytvzion.pro
-127.0.0.1	analytics.phando.com
-127.0.0.1	analytics.picsart.com
-127.0.0.1	analytics.poolshool.com
-127.0.0.1	analytics.posttv.com
-127.0.0.1	analytics.siliconexpert.com
-127.0.0.1	analytics.thevideo.me
-127.0.0.1	analyticsapi.bsbportal.com
-127.0.0.1	anayltics.kuikr.com
-127.0.0.1	zarget.com
-127.0.0.1	cdn.zarget.com
-127.0.0.1	www.alphonso.tv
-127.0.0.1	abclipper-ui1.alphonso.tv
-127.0.0.1	acr10.alphonso.tv
-127.0.0.1	acr11.alphonso.tv
-127.0.0.1	acr12.alphonso.tv
-127.0.0.1	acr13.alphonso.tv
-127.0.0.1	acr14.alphonso.tv
-127.0.0.1	acr15.alphonso.tv
-127.0.0.1	acr16.alphonso.tv
-127.0.0.1	acr17.alphonso.tv
-127.0.0.1	acr18.alphonso.tv
-127.0.0.1	acr19.alphonso.tv
-127.0.0.1	acr2.alphonso.tv
-127.0.0.1	acr20.alphonso.tv
-127.0.0.1	acr21.alphonso.tv
-127.0.0.1	acr22.alphonso.tv
-127.0.0.1	acr23.alphonso.tv
-127.0.0.1	acr25.alphonso.tv
-127.0.0.1	acr26.alphonso.tv
-127.0.0.1	acr27.alphonso.tv
-127.0.0.1	acr28.alphonso.tv
-127.0.0.1	acr29.alphonso.tv
-127.0.0.1	acr3.alphonso.tv
-127.0.0.1	acr30.alphonso.tv
-127.0.0.1	acr31.alphonso.tv
-127.0.0.1	acr32.alphonso.tv
-127.0.0.1	acr33.alphonso.tv
-127.0.0.1	acr34.alphonso.tv
-127.0.0.1	acr35.alphonso.tv
-127.0.0.1	acr36.alphonso.tv
-127.0.0.1	acr37.alphonso.tv
-127.0.0.1	acr39.alphonso.tv
-127.0.0.1	acr4.alphonso.tv
-127.0.0.1	acr40.alphonso.tv
-127.0.0.1	acr41.alphonso.tv
-127.0.0.1	acr42.alphonso.tv
-127.0.0.1	acr43.alphonso.tv
-127.0.0.1	acr44.alphonso.tv
-127.0.0.1	acr45.alphonso.tv
-127.0.0.1	acr46.alphonso.tv
-127.0.0.1	acr47.alphonso.tv
-127.0.0.1	acr49.alphonso.tv
-127.0.0.1	acr5.alphonso.tv
-127.0.0.1	acr51.alphonso.tv
-127.0.0.1	acr52.alphonso.tv
-127.0.0.1	acr53.alphonso.tv
-127.0.0.1	acr54.alphonso.tv
-127.0.0.1	acr55.alphonso.tv
-127.0.0.1	acr56.alphonso.tv
-127.0.0.1	acr58.alphonso.tv
-127.0.0.1	acr59.alphonso.tv
-127.0.0.1	acr6.alphonso.tv
-127.0.0.1	acr7.alphonso.tv
-127.0.0.1	acr8.alphonso.tv
-127.0.0.1	acr9.alphonso.tv
-127.0.0.1	acrdb.alphonso.tv
-127.0.0.1	ads.alphonso.tv
-127.0.0.1	api.alphonso.tv
-127.0.0.1	www.api.alphonso.tv
-127.0.0.1	assets.alphonso.tv
-127.0.0.1	bale.alphonso.tv
-127.0.0.1	bebe.alphonso.tv
-127.0.0.1	beckham.alphonso.tv
-127.0.0.1	best.alphonso.tv
-127.0.0.1	blog.alphonso.tv
-127.0.0.1	bwlkup.alphonso.tv
-127.0.0.1	clockskew.alphonso.tv
-127.0.0.1	cruyff.alphonso.tv
-127.0.0.1	dashboards.alphonso.tv
-127.0.0.1	degea.alphonso.tv
-127.0.0.1	dembele.alphonso.tv
-127.0.0.1	demo.alphonso.tv
-127.0.0.1	dimaria.alphonso.tv
-127.0.0.1	donovan.alphonso.tv
-127.0.0.1	honolulu.alphonso.tv
-127.0.0.1	insights.alphonso.tv
-127.0.0.1	koudas.alphonso.tv
-127.0.0.1	mahrez.alphonso.tv
-127.0.0.1	neymar.alphonso.tv
-127.0.0.1	optout.alphonso.tv
-127.0.0.1	oscar.alphonso.tv
-127.0.0.1	ozil.alphonso.tv
-127.0.0.1	pele.alphonso.tv
-127.0.0.1	pp.alphonso.tv
-127.0.0.1	ppjs.alphonso.tv
-127.0.0.1	prov.alphonso.tv
-127.0.0.1	proxy.alphonso.tv
-127.0.0.1	rtbdev4.alphonso.tv
-127.0.0.1	rtblbtr.alphonso.tv
-127.0.0.1	s4udash2.alphonso.tv
-127.0.0.1	silva.alphonso.tv
-127.0.0.1	socrates.alphonso.tv
-127.0.0.1	sterling.alphonso.tv
-127.0.0.1	tn.alphonso.tv
-127.0.0.1	tr.alphonso.tv
-127.0.0.1	tvads.alphonso.tv
-127.0.0.1	vanpersie.alphonso.tv
-127.0.0.1	villa.alphonso.tv
-127.0.0.1	web2.alphonso.tv
-127.0.0.1	yashin.alphonso.tv
-127.0.0.1	zico.alphonso.tv
-127.0.0.1	alog.umengcloud.com
-127.0.0.1	alog.umeng.co
-127.0.0.1	alog.umeng.com
-127.0.0.1	ampmetrics.techcrunch.com
-127.0.0.1	analytics.pokki.com
-127.0.0.1	analytics-static.ugc.bazaarvoice.com
-127.0.0.1	analytics.rayjump.com
-127.0.0.1	batchlogging4.truecaller.com
-127.0.0.1	client-analytics.braintreegateway.com
-127.0.0.1	device-api.urbanairship.com
-127.0.0.1	device-metrics-us-2.amazon.com
-127.0.0.1	gjapplog.uc.cn
-127.0.0.1	insight.ucweb.com
-127.0.0.1	log.snapdeal.com
-127.0.0.1	log.getdropbox.com
-127.0.0.1	log.apk.v-mate.mobi
-127.0.0.1	logger.cloudmobi.net
-127.0.0.1	logx.optimizely.com
-127.0.0.1	logitechlogitechglobal.112.2o7.net
-127.0.0.1	ma1310-r.analytics.edgekey.net
-127.0.0.1	ovc2-ustokyyneikyfasnm.stackpathdns.com
-127.0.0.1	securemetrics.apple.com
-127.0.0.1	smetrics.bestbuy.com
-127.0.0.1	srv.pixel.parsely.com
-127.0.0.1	sdkupgrade.insight.ucweb.com
-127.0.0.1	vrl.m.conviva.com
-127.0.0.1	zee.cws.conviva.com
-127.0.0.1	uop.umeng.com
-127.0.0.1	wc-tracking.lavasoft.com
-127.0.0.1	api.cloudmobi.net
-127.0.0.1	api.quantumgraph.com
-127.0.0.1	app.adjust.com
-127.0.0.1	dev.appboy.com
-127.0.0.1	go.ad1data.com
-127.0.0.1	manifest.localytics.com
-127.0.0.1	c2i-cdn.startappnetwork.com
-127.0.0.1	events.startappservice.com
-127.0.0.1	dts.startappservice.com
-127.0.0.1	imp.startappservice.com
-127.0.0.1	init.startappservice.com
-127.0.0.1	h-sdk.online-metrix.net
-127.0.0.1	profile.localytics.com
-127.0.0.1	req.startappservice.com
-127.0.0.1	ptrack.betaout.com
-127.0.0.1	www.hitcpm.com
-127.0.0.1	users.quantumgraph.com
-127.0.0.1	tracking.i2w.io
-127.0.0.1	tracking-thirdparty.i2w.io
-127.0.0.1	events.redditmedia.com
-127.0.0.1	c.webengage.com
-127.0.0.1	prebid.adnxs.com
-127.0.0.1	gurgle.zdbb.net
-127.0.0.1	ns.zdbb.net
-127.0.0.1	284419414.log.optimizely.com
-127.0.0.1	mt.rtmark.net
-127.0.0.1	my.rtmark.net
-127.0.0.1	stats.jpush.cn
-127.0.0.1	rules.quantcount.com
-127.0.0.1	nexus.ensighten.com
-127.0.0.1	perf.mmstat.com
-127.0.0.1	pixel.nc0.co
-127.0.0.1	register.appsflyer.com
-127.0.0.1	4448269.fls.doubleclick.net
-127.0.0.1	sstats.adobe.com
-127.0.0.1	analytics.archive.org
-127.0.0.1	analytics-production.hapyak.com
-127.0.0.1	analytics.247sports.com
-127.0.0.1	analytics.bitrix.info
-127.0.0.1	analytics.htmedia.in
-127.0.0.1	analytics.icons8.com
-127.0.0.1	analytics.myfinance.com
-127.0.0.1	analytics.samdd.me
-127.0.0.1	analytics.swiggy.com
-127.0.0.1	lead.soperson.com
-127.0.0.1	yun-static.soperson.com
-127.0.0.1	www.soperson.com
-127.0.0.1	soperson.com
-127.0.0.1	talk99.cn
-127.0.0.1	www.talk99.cn
+127.0.0.1 analysis.polarisoffice.com
+127.0.0.1 analytics-digit-in.cdn.ampproject.org
+127.0.0.1 analytics.cloudron.io
+127.0.0.1 analytics.colacoweb.net
+127.0.0.1 analytics.digit.in
+127.0.0.1 analytics.jabong.com
+127.0.0.1 analytics.lk.api.ditto.com
+127.0.0.1 analytics.logsss.com
+127.0.0.1 analytics.mailmunch.co
+127.0.0.1 analytics.mopub.com
+127.0.0.1 analytics.mytvzion.pro
+127.0.0.1 analytics.phando.com
+127.0.0.1 analytics.picsart.com
+127.0.0.1 analytics.poolshool.com
+127.0.0.1 analytics.posttv.com
+127.0.0.1 analytics.siliconexpert.com
+127.0.0.1 analytics.thevideo.me
+127.0.0.1 analyticsapi.bsbportal.com
+127.0.0.1 anayltics.kuikr.com
+127.0.0.1 zarget.com
+127.0.0.1 cdn.zarget.com
+127.0.0.1 www.alphonso.tv
+127.0.0.1 abclipper-ui1.alphonso.tv
+127.0.0.1 acr10.alphonso.tv
+127.0.0.1 acr11.alphonso.tv
+127.0.0.1 acr12.alphonso.tv
+127.0.0.1 acr13.alphonso.tv
+127.0.0.1 acr14.alphonso.tv
+127.0.0.1 acr15.alphonso.tv
+127.0.0.1 acr16.alphonso.tv
+127.0.0.1 acr17.alphonso.tv
+127.0.0.1 acr18.alphonso.tv
+127.0.0.1 acr19.alphonso.tv
+127.0.0.1 acr2.alphonso.tv
+127.0.0.1 acr20.alphonso.tv
+127.0.0.1 acr21.alphonso.tv
+127.0.0.1 acr22.alphonso.tv
+127.0.0.1 acr23.alphonso.tv
+127.0.0.1 acr25.alphonso.tv
+127.0.0.1 acr26.alphonso.tv
+127.0.0.1 acr27.alphonso.tv
+127.0.0.1 acr28.alphonso.tv
+127.0.0.1 acr29.alphonso.tv
+127.0.0.1 acr3.alphonso.tv
+127.0.0.1 acr30.alphonso.tv
+127.0.0.1 acr31.alphonso.tv
+127.0.0.1 acr32.alphonso.tv
+127.0.0.1 acr33.alphonso.tv
+127.0.0.1 acr34.alphonso.tv
+127.0.0.1 acr35.alphonso.tv
+127.0.0.1 acr36.alphonso.tv
+127.0.0.1 acr37.alphonso.tv
+127.0.0.1 acr39.alphonso.tv
+127.0.0.1 acr4.alphonso.tv
+127.0.0.1 acr40.alphonso.tv
+127.0.0.1 acr41.alphonso.tv
+127.0.0.1 acr42.alphonso.tv
+127.0.0.1 acr43.alphonso.tv
+127.0.0.1 acr44.alphonso.tv
+127.0.0.1 acr45.alphonso.tv
+127.0.0.1 acr46.alphonso.tv
+127.0.0.1 acr47.alphonso.tv
+127.0.0.1 acr49.alphonso.tv
+127.0.0.1 acr5.alphonso.tv
+127.0.0.1 acr51.alphonso.tv
+127.0.0.1 acr52.alphonso.tv
+127.0.0.1 acr53.alphonso.tv
+127.0.0.1 acr54.alphonso.tv
+127.0.0.1 acr55.alphonso.tv
+127.0.0.1 acr56.alphonso.tv
+127.0.0.1 acr58.alphonso.tv
+127.0.0.1 acr59.alphonso.tv
+127.0.0.1 acr6.alphonso.tv
+127.0.0.1 acr7.alphonso.tv
+127.0.0.1 acr8.alphonso.tv
+127.0.0.1 acr9.alphonso.tv
+127.0.0.1 acrdb.alphonso.tv
+127.0.0.1 ads.alphonso.tv
+127.0.0.1 api.alphonso.tv
+127.0.0.1 www.api.alphonso.tv
+127.0.0.1 assets.alphonso.tv
+127.0.0.1 bale.alphonso.tv
+127.0.0.1 bebe.alphonso.tv
+127.0.0.1 beckham.alphonso.tv
+127.0.0.1 best.alphonso.tv
+127.0.0.1 blog.alphonso.tv
+127.0.0.1 bwlkup.alphonso.tv
+127.0.0.1 clockskew.alphonso.tv
+127.0.0.1 cruyff.alphonso.tv
+127.0.0.1 dashboards.alphonso.tv
+127.0.0.1 degea.alphonso.tv
+127.0.0.1 dembele.alphonso.tv
+127.0.0.1 demo.alphonso.tv
+127.0.0.1 dimaria.alphonso.tv
+127.0.0.1 donovan.alphonso.tv
+127.0.0.1 honolulu.alphonso.tv
+127.0.0.1 insights.alphonso.tv
+127.0.0.1 koudas.alphonso.tv
+127.0.0.1 mahrez.alphonso.tv
+127.0.0.1 neymar.alphonso.tv
+127.0.0.1 optout.alphonso.tv
+127.0.0.1 oscar.alphonso.tv
+127.0.0.1 ozil.alphonso.tv
+127.0.0.1 pele.alphonso.tv
+127.0.0.1 pp.alphonso.tv
+127.0.0.1 ppjs.alphonso.tv
+127.0.0.1 prov.alphonso.tv
+127.0.0.1 proxy.alphonso.tv
+127.0.0.1 rtbdev4.alphonso.tv
+127.0.0.1 rtblbtr.alphonso.tv
+127.0.0.1 s4udash2.alphonso.tv
+127.0.0.1 silva.alphonso.tv
+127.0.0.1 socrates.alphonso.tv
+127.0.0.1 sterling.alphonso.tv
+127.0.0.1 tn.alphonso.tv
+127.0.0.1 tr.alphonso.tv
+127.0.0.1 tvads.alphonso.tv
+127.0.0.1 vanpersie.alphonso.tv
+127.0.0.1 villa.alphonso.tv
+127.0.0.1 web2.alphonso.tv
+127.0.0.1 yashin.alphonso.tv
+127.0.0.1 zico.alphonso.tv
+127.0.0.1 alog.umengcloud.com
+127.0.0.1 alog.umeng.co
+127.0.0.1 alog.umeng.com
+127.0.0.1 ampmetrics.techcrunch.com
+127.0.0.1 analytics.pokki.com
+127.0.0.1 analytics-static.ugc.bazaarvoice.com
+127.0.0.1 analytics.rayjump.com
+127.0.0.1 batchlogging4.truecaller.com
+127.0.0.1 client-analytics.braintreegateway.com
+127.0.0.1 device-api.urbanairship.com
+127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 gjapplog.uc.cn
+127.0.0.1 insight.ucweb.com
+127.0.0.1 log.snapdeal.com
+127.0.0.1 log.getdropbox.com
+127.0.0.1 log.apk.v-mate.mobi
+127.0.0.1 logger.cloudmobi.net
+127.0.0.1 logx.optimizely.com
+127.0.0.1 logitechlogitechglobal.112.2o7.net
+127.0.0.1 ma1310-r.analytics.edgekey.net
+127.0.0.1 ovc2-ustokyyneikyfasnm.stackpathdns.com
+127.0.0.1 securemetrics.apple.com
+127.0.0.1 smetrics.bestbuy.com
+127.0.0.1 srv.pixel.parsely.com
+127.0.0.1 sdkupgrade.insight.ucweb.com
+127.0.0.1 vrl.m.conviva.com
+127.0.0.1 zee.cws.conviva.com
+127.0.0.1 uop.umeng.com
+127.0.0.1 wc-tracking.lavasoft.com
+127.0.0.1 api.cloudmobi.net
+127.0.0.1 api.quantumgraph.com
+127.0.0.1 app.adjust.com
+127.0.0.1 dev.appboy.com
+127.0.0.1 go.ad1data.com
+127.0.0.1 manifest.localytics.com
+127.0.0.1 c2i-cdn.startappnetwork.com
+127.0.0.1 events.startappservice.com
+127.0.0.1 dts.startappservice.com
+127.0.0.1 imp.startappservice.com
+127.0.0.1 init.startappservice.com
+127.0.0.1 h-sdk.online-metrix.net
+127.0.0.1 profile.localytics.com
+127.0.0.1 req.startappservice.com
+127.0.0.1 ptrack.betaout.com
+127.0.0.1 www.hitcpm.com
+127.0.0.1 users.quantumgraph.com
+127.0.0.1 tracking.i2w.io
+127.0.0.1 tracking-thirdparty.i2w.io
+127.0.0.1 events.redditmedia.com
+127.0.0.1 c.webengage.com
+127.0.0.1 prebid.adnxs.com
+127.0.0.1 gurgle.zdbb.net
+127.0.0.1 ns.zdbb.net
+127.0.0.1 284419414.log.optimizely.com
+127.0.0.1 mt.rtmark.net
+127.0.0.1 my.rtmark.net
+127.0.0.1 stats.jpush.cn
+127.0.0.1 rules.quantcount.com
+127.0.0.1 nexus.ensighten.com
+127.0.0.1 perf.mmstat.com
+127.0.0.1 pixel.nc0.co
+127.0.0.1 register.appsflyer.com
+127.0.0.1 4448269.fls.doubleclick.net
+127.0.0.1 sstats.adobe.com
+127.0.0.1 analytics.archive.org
+127.0.0.1 analytics-production.hapyak.com
+127.0.0.1 analytics.247sports.com
+127.0.0.1 analytics.bitrix.info
+127.0.0.1 analytics.htmedia.in
+127.0.0.1 analytics.icons8.com
+127.0.0.1 analytics.myfinance.com
+127.0.0.1 analytics.samdd.me
+127.0.0.1 analytics.swiggy.com
+127.0.0.1 lead.soperson.com
+127.0.0.1 yun-static.soperson.com
+127.0.0.1 www.soperson.com
+127.0.0.1 soperson.com
+127.0.0.1 talk99.cn
+127.0.0.1 www.talk99.cn
 
 # Ads and tracking on Xiaomi devices
-127.0.0.1	api.ad.xiaomi.com
-127.0.0.1	api.admob.xiaomi.com
-127.0.0.1	api.d.xiaomi.com
-127.0.0.1	a.stat.xiaomi.com
-127.0.0.1	tracking.miui.com
-127.0.0.1	cdn.ad.xiaomi.com
-127.0.0.1	data.mistat.xiaomi.com
-127.0.0.1	e.ad.xiaomi.com
-127.0.0.1	globalapi.ad.xiaomi.com
-127.0.0.1	new.api.ad.xiaomi.com
-127.0.0.1	sdkconfig.ad.xiaomi.com
-127.0.0.1	ssp.ad.xiaomi.com
-127.0.0.1	test.ad.xiaomi.com
-127.0.0.1	test.e.ad.xiaomi.com
-127.0.0.1	test.new.api.ad.xiaomi.com
-127.0.0.1	cc.sys.intl.xiaomi.com
-127.0.0.1	cc.sys.miui.com
-127.0.0.1	ccc.sys.miui.com
-127.0.0.1	ccc.sys.intl.xiaomi.com
-127.0.0.1	data.mistat.intl.xiaomi.com
-127.0.0.1	geofence.sys.miui.com
-127.0.0.1	abtest.mistat.xiaomi.com
-127.0.0.1	abtest.mistat.intl.xiaomi.com
-127.0.0.1	zeus.ad.intl.xiaomi.com
-127.0.0.1	storeconfig.mistat.intl.xiaomi.com
-127.0.0.1	fcanr.tracking.miui.com
-127.0.0.1	api.ad.intl.xiaomi.com
-127.0.0.1	sdkconfig.ad.intl.xiaomi.com
-127.0.0.1	tracking.intl.miui.com
-127.0.0.1	adv.sec.intl.miui.com
-127.0.0.1	api.brs.intl.miui.com
-127.0.0.1	api.collect.data.intl.miui.com
-127.0.0.1	api.hybrid.intl.xiaomi.com
-127.0.0.1	api.sec.intl.miui.com
-127.0.0.1	api.setting.intl.miui.com
-127.0.0.1	authbe.sec.intl.miui.com
-127.0.0.1	data.sec.intl.miui.com
-127.0.0.1	zeus.ad.xiaomi.com
-127.0.0.1	www.api.ad.intl.xiaomi.com
-127.0.0.1	sgp.o2o.api.xiaomi.com
-127.0.0.1	flash.sec.intl.miui.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 api.admob.xiaomi.com
+127.0.0.1 api.d.xiaomi.com
+127.0.0.1 a.stat.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 e.ad.xiaomi.com
+127.0.0.1 globalapi.ad.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 ssp.ad.xiaomi.com
+127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 test.e.ad.xiaomi.com
+127.0.0.1 test.new.api.ad.xiaomi.com
+127.0.0.1 cc.sys.intl.xiaomi.com
+127.0.0.1 cc.sys.miui.com
+127.0.0.1 ccc.sys.miui.com
+127.0.0.1 ccc.sys.intl.xiaomi.com
+127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 geofence.sys.miui.com
+127.0.0.1 abtest.mistat.xiaomi.com
+127.0.0.1 abtest.mistat.intl.xiaomi.com
+127.0.0.1 zeus.ad.intl.xiaomi.com
+127.0.0.1 storeconfig.mistat.intl.xiaomi.com
+127.0.0.1 fcanr.tracking.miui.com
+127.0.0.1 api.ad.intl.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 tracking.intl.miui.com
+127.0.0.1 adv.sec.intl.miui.com
+127.0.0.1 api.brs.intl.miui.com
+127.0.0.1 api.collect.data.intl.miui.com
+127.0.0.1 api.hybrid.intl.xiaomi.com
+127.0.0.1 api.sec.intl.miui.com
+127.0.0.1 api.setting.intl.miui.com
+127.0.0.1 authbe.sec.intl.miui.com
+127.0.0.1 data.sec.intl.miui.com
+127.0.0.1 zeus.ad.xiaomi.com
+127.0.0.1 www.api.ad.intl.xiaomi.com
+127.0.0.1 sgp.o2o.api.xiaomi.com
+127.0.0.1 flash.sec.intl.miui.com
 
 # Some Ads
-127.0.0.1	ampmetrics.engadget.com
-127.0.0.1	c.adskeeper.co.uk
-127.0.0.1	datacollect.vmall.com
-127.0.0.1	events.appsflyer.com
-127.0.0.1	event.ksosoft.com
-127.0.0.1	events3.adcolony.com
-127.0.0.1	l2.visiblemeasures.com
-127.0.0.1	track.tenjin.io
-127.0.0.1	ustat.batmobi.net
-127.0.0.1	an.batmobi.net
-127.0.0.1	api.stats.appa.pe
-127.0.0.1	api5.batmobil.net
-127.0.0.1	applog.uc.cn
-127.0.0.1	applog.camera360.com
-127.0.0.1	device-metrics-us.amazon.com
-127.0.0.1	metrics.adage.com
-127.0.0.1	ads.feedly.com
-127.0.0.1	bi-collector.oneapm.com
-127.0.0.1	lepodownload.mediatek.com
-127.0.0.1	pixel.realclever.com
-127.0.0.1	sdktm.w.inmobi.com
-127.0.0.1	matchmyip.com
-127.0.0.1	ads.aerserv.com
-127.0.0.1	ads.mp.mydas.mobi
-127.0.0.1	ads.nexage.com
-127.0.0.1	api.oneaudience.com
-127.0.0.1	d.applovin.com
-127.0.0.1	l-v1.presage.io
-127.0.0.1	rt.applovin.com
-127.0.0.1	sdk.adincube.com
-127.0.0.1	api.pubnative.net
-127.0.0.1	sdklogs.avocarrot.com
-127.0.0.1	telemetry.layer.com
-127.0.0.1	dasdada.fu.ck
-127.0.0.1	i1.dl-ad.com
-127.0.0.1	pl-v2.presage.io
-127.0.0.1	pixel.onaudience.com
-127.0.0.1	ad.api.kaffnet.com
-127.0.0.1	ad.click.kaffnet.com
-127.0.0.1	api.ad.snappea.com
-127.0.0.1	ad.360in.com
-127.0.0.1	ads.adtekmedia.com
-127.0.0.1	ads.chacomedia.com
-127.0.0.1	ads.grandonmedia.com
-127.0.0.1	adserver.ministryofads.com
-127.0.0.1	adsflame.com
-127.0.0.1	adtekmedia.com
-127.0.0.1	adv.axiatraders.com
-127.0.0.1	adv.grandonmedia.com
-127.0.0.1	alliance4media.com
-127.0.0.1	api.axiatraders.com
-127.0.0.1	api.grandonmedia.com
-127.0.0.1	banners.mediaparade.net
-127.0.0.1	bid.axiatraders.com
-127.0.0.1	bid.grandonmedia.com
-127.0.0.1	bigsharkmedia.com
-127.0.0.1	blog.roboinside.me
-127.0.0.1	buzzclicks.com
-127.0.0.1	cdn.beginads.com
-127.0.0.1	click-rtb-useast.kobenetwork.com
-127.0.0.1	click.axiatraders.com
-127.0.0.1	click.elixmedia.com
-127.0.0.1	click.enatimedia.com
-127.0.0.1	click.grandonmedia.com
-127.0.0.1	clickopon.com
-127.0.0.1	clickrtb-useast.kobenetwork.com
-127.0.0.1	cvent.axiatraders.com
-127.0.0.1	deshmedia.com
-127.0.0.1	dsp.face2trade.com
-127.0.0.1	ecommerce.roboinside.me
-127.0.0.1	elixmedia.com
-127.0.0.1	enatimedia.com
-127.0.0.1	exchange.face2trade.com
-127.0.0.1	grandonmedia.com
-127.0.0.1	indiaonclick.com
-127.0.0.1	jira.face2trade.com
-127.0.0.1	k5market.com
-127.0.0.1	kushat.roboinside.me
-127.0.0.1	mediabarterexchange.com
-127.0.0.1	mediadirectx.com
-127.0.0.1	mediaparade.net
-127.0.0.1	oz.ministryofads.com
-127.0.0.1	plaimedia.com
-127.0.0.1	powertradeprofit.com
-127.0.0.1	promo.buzzclicks.com
-127.0.0.1	promo.enatimedia.com
-127.0.0.1	promo.kobenetwork.com
-127.0.0.1	pub.axiatraders.com
-127.0.0.1	pub.grandonmedia.com
-127.0.0.1	publisherhub.plaimedia.com
-127.0.0.1	quark.plaimedia.com
-127.0.0.1	realestate2.deshmedia.com
-127.0.0.1	roboinside.me
-127.0.0.1	rotator.axiatraders.com
-127.0.0.1	rotator.beginads.com
-127.0.0.1	rotator.buzzclicks.com
-127.0.0.1	rtb-useast.kobenetwork.com
-127.0.0.1	sebder.roboinside.me
-127.0.0.1	service.face2trade.com
-127.0.0.1	sf-3.east.kobenetwork.com
-127.0.0.1	sf-3.st.adtekmedia.com
-127.0.0.1	sf3.east.kobenetwork.com
-127.0.0.1	sionicmedia.com
-127.0.0.1	spiegel-de.spiegel.de
-127.0.0.1	ssp.face2trade.com
-127.0.0.1	static.elixmedia.com
-127.0.0.1	tracker.clickopon.com
-127.0.0.1	tracking.beginads.com
-127.0.0.1	tradersbrokers.com
-127.0.0.1	us-east1.serve.elixmedia.com
-127.0.0.1	us-east1.serve.enatimedia.com
-127.0.0.1	www.ads2live.com
-127.0.0.1	www.adserver.ministryofads.com
-127.0.0.1	www.adsflame.com
-127.0.0.1	www.adtekmedia.com
-127.0.0.1	www.alliance4media.com
-127.0.0.1	www.axiatraders.com
-127.0.0.1	www.banners.mediaparade.net
-127.0.0.1	www.beginads.com
-127.0.0.1	www.bigsharkmedia.com
-127.0.0.1	www.buzzclicks.com
-127.0.0.1	www.chacomedia.com
-127.0.0.1	www.click.elixmedia.com
-127.0.0.1	www.clickopon.com
-127.0.0.1	www.deshmedia.com
-127.0.0.1	www.elixmedia.com
-127.0.0.1	www.enatimedia.com
-127.0.0.1	www.face2trade.com
-127.0.0.1	www.grandonmedia.com
-127.0.0.1	www.indiaonclick.com
-127.0.0.1	www.k5market.com
-127.0.0.1	www.mediabarterexchange.com
-127.0.0.1	www.mediadirectx.com
-127.0.0.1	www.mediaparade.net
-127.0.0.1	www.ministryofads.com
-127.0.0.1	www.plaimedia.com
-127.0.0.1	www.powertradeprofit.com
-127.0.0.1	www.roboinside.me
-127.0.0.1	www.rotator.buzzclicks.com
-127.0.0.1	www.sf-3.st.adtekmedia.com
-127.0.0.1	www.sionicmedia.com
-127.0.0.1	www.static.elixmedia.com
-127.0.0.1	www.tradersbrokers.com
-127.0.0.1	www.us-east1.serve.elixmedia.com
-127.0.0.1	xml.plaimedia.com
-127.0.0.1	zamora.axiatraders.com
-127.0.0.1	ads.proc.cc
-127.0.0.1	asap.sharethrough.com
-127.0.0.1	graph.accountkit.com
-127.0.0.1	ma312-r.analytics.edgesuite.net
-127.0.0.1	wzrkt.com
-127.0.0.1	www.wzrkt.com
-127.0.0.1	cdn5.userzoom.com
-127.0.0.1	web.vortex.data.microsoft.com
+127.0.0.1 ampmetrics.engadget.com
+127.0.0.1 c.adskeeper.co.uk
+127.0.0.1 datacollect.vmall.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 event.ksosoft.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 l2.visiblemeasures.com
+127.0.0.1 track.tenjin.io
+127.0.0.1 ustat.batmobi.net
+127.0.0.1 an.batmobi.net
+127.0.0.1 api.stats.appa.pe
+127.0.0.1 api5.batmobil.net
+127.0.0.1 applog.uc.cn
+127.0.0.1 applog.camera360.com
+127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 metrics.adage.com
+127.0.0.1 ads.feedly.com
+127.0.0.1 bi-collector.oneapm.com
+127.0.0.1 lepodownload.mediatek.com
+127.0.0.1 pixel.realclever.com
+127.0.0.1 sdktm.w.inmobi.com
+127.0.0.1 matchmyip.com
+127.0.0.1 ads.aerserv.com
+127.0.0.1 ads.mp.mydas.mobi
+127.0.0.1 ads.nexage.com
+127.0.0.1 api.oneaudience.com
+127.0.0.1 d.applovin.com
+127.0.0.1 l-v1.presage.io
+127.0.0.1 rt.applovin.com
+127.0.0.1 sdk.adincube.com
+127.0.0.1 api.pubnative.net
+127.0.0.1 sdklogs.avocarrot.com
+127.0.0.1 telemetry.layer.com
+127.0.0.1 dasdada.fu.ck
+127.0.0.1 i1.dl-ad.com
+127.0.0.1 pl-v2.presage.io
+127.0.0.1 pixel.onaudience.com
+127.0.0.1 ad.api.kaffnet.com
+127.0.0.1 ad.click.kaffnet.com
+127.0.0.1 api.ad.snappea.com
+127.0.0.1 ad.360in.com
+127.0.0.1 ads.adtekmedia.com
+127.0.0.1 ads.chacomedia.com
+127.0.0.1 ads.grandonmedia.com
+127.0.0.1 adserver.ministryofads.com
+127.0.0.1 adsflame.com
+127.0.0.1 adtekmedia.com
+127.0.0.1 adv.axiatraders.com
+127.0.0.1 adv.grandonmedia.com
+127.0.0.1 alliance4media.com
+127.0.0.1 api.axiatraders.com
+127.0.0.1 api.grandonmedia.com
+127.0.0.1 banners.mediaparade.net
+127.0.0.1 bid.axiatraders.com
+127.0.0.1 bid.grandonmedia.com
+127.0.0.1 bigsharkmedia.com
+127.0.0.1 blog.roboinside.me
+127.0.0.1 buzzclicks.com
+127.0.0.1 cdn.beginads.com
+127.0.0.1 click-rtb-useast.kobenetwork.com
+127.0.0.1 click.axiatraders.com
+127.0.0.1 click.elixmedia.com
+127.0.0.1 click.enatimedia.com
+127.0.0.1 click.grandonmedia.com
+127.0.0.1 clickopon.com
+127.0.0.1 clickrtb-useast.kobenetwork.com
+127.0.0.1 cvent.axiatraders.com
+127.0.0.1 deshmedia.com
+127.0.0.1 dsp.face2trade.com
+127.0.0.1 ecommerce.roboinside.me
+127.0.0.1 elixmedia.com
+127.0.0.1 enatimedia.com
+127.0.0.1 exchange.face2trade.com
+127.0.0.1 grandonmedia.com
+127.0.0.1 indiaonclick.com
+127.0.0.1 jira.face2trade.com
+127.0.0.1 k5market.com
+127.0.0.1 kushat.roboinside.me
+127.0.0.1 mediabarterexchange.com
+127.0.0.1 mediadirectx.com
+127.0.0.1 mediaparade.net
+127.0.0.1 oz.ministryofads.com
+127.0.0.1 plaimedia.com
+127.0.0.1 powertradeprofit.com
+127.0.0.1 promo.buzzclicks.com
+127.0.0.1 promo.enatimedia.com
+127.0.0.1 promo.kobenetwork.com
+127.0.0.1 pub.axiatraders.com
+127.0.0.1 pub.grandonmedia.com
+127.0.0.1 publisherhub.plaimedia.com
+127.0.0.1 quark.plaimedia.com
+127.0.0.1 realestate2.deshmedia.com
+127.0.0.1 roboinside.me
+127.0.0.1 rotator.axiatraders.com
+127.0.0.1 rotator.beginads.com
+127.0.0.1 rotator.buzzclicks.com
+127.0.0.1 rtb-useast.kobenetwork.com
+127.0.0.1 sebder.roboinside.me
+127.0.0.1 service.face2trade.com
+127.0.0.1 sf-3.east.kobenetwork.com
+127.0.0.1 sf-3.st.adtekmedia.com
+127.0.0.1 sf3.east.kobenetwork.com
+127.0.0.1 sionicmedia.com
+127.0.0.1 spiegel-de.spiegel.de
+127.0.0.1 ssp.face2trade.com
+127.0.0.1 static.elixmedia.com
+127.0.0.1 tracker.clickopon.com
+127.0.0.1 tracking.beginads.com
+127.0.0.1 tradersbrokers.com
+127.0.0.1 us-east1.serve.elixmedia.com
+127.0.0.1 us-east1.serve.enatimedia.com
+127.0.0.1 www.ads2live.com
+127.0.0.1 www.adserver.ministryofads.com
+127.0.0.1 www.adsflame.com
+127.0.0.1 www.adtekmedia.com
+127.0.0.1 www.alliance4media.com
+127.0.0.1 www.axiatraders.com
+127.0.0.1 www.banners.mediaparade.net
+127.0.0.1 www.beginads.com
+127.0.0.1 www.bigsharkmedia.com
+127.0.0.1 www.buzzclicks.com
+127.0.0.1 www.chacomedia.com
+127.0.0.1 www.click.elixmedia.com
+127.0.0.1 www.clickopon.com
+127.0.0.1 www.deshmedia.com
+127.0.0.1 www.elixmedia.com
+127.0.0.1 www.enatimedia.com
+127.0.0.1 www.face2trade.com
+127.0.0.1 www.grandonmedia.com
+127.0.0.1 www.indiaonclick.com
+127.0.0.1 www.k5market.com
+127.0.0.1 www.mediabarterexchange.com
+127.0.0.1 www.mediadirectx.com
+127.0.0.1 www.mediaparade.net
+127.0.0.1 www.ministryofads.com
+127.0.0.1 www.plaimedia.com
+127.0.0.1 www.powertradeprofit.com
+127.0.0.1 www.roboinside.me
+127.0.0.1 www.rotator.buzzclicks.com
+127.0.0.1 www.sf-3.st.adtekmedia.com
+127.0.0.1 www.sionicmedia.com
+127.0.0.1 www.static.elixmedia.com
+127.0.0.1 www.tradersbrokers.com
+127.0.0.1 www.us-east1.serve.elixmedia.com
+127.0.0.1 xml.plaimedia.com
+127.0.0.1 zamora.axiatraders.com
+127.0.0.1 ads.proc.cc
+127.0.0.1 asap.sharethrough.com
+127.0.0.1 graph.accountkit.com
+127.0.0.1 ma312-r.analytics.edgesuite.net
+127.0.0.1 wzrkt.com
+127.0.0.1 www.wzrkt.com
+127.0.0.1 cdn5.userzoom.com
+127.0.0.1 web.vortex.data.microsoft.com
 127.0.0.1 advertising.com
 127.0.0.1 vortex.data.microsoft.com
 127.0.0.1 telemetry.urs.microsoft.com
-127.0.0.1	telecommand.telemetry.microsoft.com
+127.0.0.1 telecommand.telemetry.microsoft.com
 127.0.0.1 survey.watson.microsoft.com
-127.0.0.1	ads5.truecaller.com
-127.0.0.1	ae.gsecondscreen.com
-127.0.0.1	api.c.avazunativeads.com
-127.0.0.1	cdn-jp.gsecondscreen.com
-127.0.0.1	feedback.adrecover.com
-127.0.0.1	js34dc10.gamooga.com
-127.0.0.1	unconf.adkmob.com
-127.0.0.1	watson.telemetry.microsoft.com
-127.0.0.1	cdn.bitmedianetwork.com
-127.0.0.1	adzerk.com
-127.0.0.1	orion.iad.appboy.com
-127.0.0.1	ploy.batmobi.net
-127.0.0.1	ad.apsalar.com
-127.0.0.1	cdn.moengage.com
-127.0.0.1	gtsdk.batmobi.net
-127.0.0.1	gum.criteo.com
-127.0.0.1	mads.at.atwola.com
-127.0.0.1	nativesdks.mparticle.com
-127.0.0.1	cdn.tsyndicate.com
-127.0.0.1	in8.zog.link
-127.0.0.1	trafforsrv.com
-127.0.0.1	engine.bitmedianetwork.com
-127.0.0.1	wsdk-files.webengage.com
-127.0.0.1	newlimitedoffer.com
-127.0.0.1	t.newlimitedoffer.com
-127.0.0.1	pushedwebnews.com
-127.0.0.1	vamsoupowoa.com
-127.0.0.1	ads2.servebom.com
-127.0.0.1	api.eqmob.com
-127.0.0.1	onlineapi.youappi.com
-127.0.0.1	static.youappi.com
-127.0.0.1	ad.adapter.kaffnet.com
-127.0.0.1	kuikdelivery.com
-127.0.0.1	tripan.me
-127.0.0.1	d-and-h.com
-127.0.0.1	www.cosiloon.com
-127.0.0.1	cosiloon.com
-127.0.0.1	abc.cosiloon.com
-127.0.0.1	app.storage.yunvm.com
-127.0.0.1	abd.cosiloon.com
-127.0.0.1	pull-3045.kxcdn.com
-127.0.0.1	a.tvpage.com
-127.0.0.1	api.tvpage.com
-127.0.0.1	mktg.tvpage.com
-127.0.0.1	sitecdn.tvpage.com
-127.0.0.1	www.tvpage.com
-127.0.0.1	tvpage.com
-127.0.0.1	cdnjs.tvpage.com
-127.0.0.1	videos-bleepingcomputers-com.tvpagecdn.com
-127.0.0.1	stage.tvpage.com
-127.0.0.1	appcdn.tvpage.com
-127.0.0.1	ad.wynk.in
+127.0.0.1 ads5.truecaller.com
+127.0.0.1 ae.gsecondscreen.com
+127.0.0.1 api.c.avazunativeads.com
+127.0.0.1 cdn-jp.gsecondscreen.com
+127.0.0.1 feedback.adrecover.com
+127.0.0.1 js34dc10.gamooga.com
+127.0.0.1 unconf.adkmob.com
+127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 cdn.bitmedianetwork.com
+127.0.0.1 adzerk.com
+127.0.0.1 orion.iad.appboy.com
+127.0.0.1 ploy.batmobi.net
+127.0.0.1 ad.apsalar.com
+127.0.0.1 cdn.moengage.com
+127.0.0.1 gtsdk.batmobi.net
+127.0.0.1 gum.criteo.com
+127.0.0.1 mads.at.atwola.com
+127.0.0.1 nativesdks.mparticle.com
+127.0.0.1 cdn.tsyndicate.com
+127.0.0.1 in8.zog.link
+127.0.0.1 trafforsrv.com
+127.0.0.1 engine.bitmedianetwork.com
+127.0.0.1 wsdk-files.webengage.com
+127.0.0.1 newlimitedoffer.com
+127.0.0.1 t.newlimitedoffer.com
+127.0.0.1 pushedwebnews.com
+127.0.0.1 vamsoupowoa.com
+127.0.0.1 ads2.servebom.com
+127.0.0.1 api.eqmob.com
+127.0.0.1 onlineapi.youappi.com
+127.0.0.1 static.youappi.com
+127.0.0.1 ad.adapter.kaffnet.com
+127.0.0.1 kuikdelivery.com
+127.0.0.1 tripan.me
+127.0.0.1 d-and-h.com
+127.0.0.1 www.cosiloon.com
+127.0.0.1 cosiloon.com
+127.0.0.1 abc.cosiloon.com
+127.0.0.1 app.storage.yunvm.com
+127.0.0.1 abd.cosiloon.com
+127.0.0.1 pull-3045.kxcdn.com
+127.0.0.1 a.tvpage.com
+127.0.0.1 api.tvpage.com
+127.0.0.1 mktg.tvpage.com
+127.0.0.1 sitecdn.tvpage.com
+127.0.0.1 www.tvpage.com
+127.0.0.1 tvpage.com
+127.0.0.1 cdnjs.tvpage.com
+127.0.0.1 videos-bleepingcomputers-com.tvpagecdn.com
+127.0.0.1 stage.tvpage.com
+127.0.0.1 appcdn.tvpage.com
+127.0.0.1 ad.wynk.in
 
 # Block ads on Hotstar streaming app by @anudeepND
-127.0.0.1	app-measurement.com
-127.0.0.1	agl.hotstar.com
-127.0.0.1	adserver.adtech.de
-127.0.0.1	segment.hotstar.com
-127.0.0.1	service.videoplaza.tv
-127.0.0.1	cdn.segment.com
-127.0.0.1	cdn.mxpnl.com
-127.0.0.1	js-agent.newrelic.com
-127.0.0.1	sb.scorecardresearch.com
-127.0.0.1	in-star.videoplaza.tv
-127.0.0.1	hotstar.worldgravity.com
-127.0.0.1	ssl.widgets.webengage.com
-127.0.0.1	ap-sonar.sociomantic.com
-127.0.0.1	chuknu.sokrati.com
-127.0.0.1	tag.hockeycurve.com
-127.0.0.1	agl-intl.hotstar.com
-127.0.0.1	sqm.telemetry.microsoft.com
-127.0.0.1	vortex-win.data.microsoft.com
-127.0.0.1	apiv2.moengage.com
-127.0.0.1	settings.crashlytics.com
-127.0.0.1	logs.gaana.com
-127.0.0.1	apiv3.moengage.com
-127.0.0.1	e-ssl.apsalar.com
-127.0.0.1	ase.clmbtech.com
-127.0.0.1	api.moengage.com
-127.0.0.1	udm.scorecardresearch.com
-127.0.0.1	t.appsflyer.com
-127.0.0.1	stat-c.maxthon.com
-127.0.0.1	hotstar.pubnub.net
-127.0.0.1	in-starlive.videoplaza.tv
-127.0.0.1	cdn-settings.segment.com
-127.0.0.1	decide.mixpanel.com
-127.0.0.1	reports.crashlytics.com
-127.0.0.1	api.taplytics.com
-127.0.0.1	in-starlive-preroll.videoplaza.tv
-127.0.0.1	cdn.auditude.com
-127.0.0.1	ibeat.indiatimes.com
-127.0.0.1	static.clmbtech.com
-127.0.0.1	api.branch.io
-127.0.0.1	camsoda.com
-127.0.0.1	www.camsoda.com
-127.0.0.1	msmetrics.ws.sonos.com
-127.0.0.1	betpromo247.com
-
-
-
-
-
-
-
-
-
+127.0.0.1 app-measurement.com
+127.0.0.1 agl.hotstar.com
+127.0.0.1 adserver.adtech.de
+127.0.0.1 segment.hotstar.com
+127.0.0.1 service.videoplaza.tv
+127.0.0.1 cdn.segment.com
+127.0.0.1 cdn.mxpnl.com
+127.0.0.1 js-agent.newrelic.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 in-star.videoplaza.tv
+127.0.0.1 hotstar.worldgravity.com
+127.0.0.1 ssl.widgets.webengage.com
+127.0.0.1 ap-sonar.sociomantic.com
+127.0.0.1 chuknu.sokrati.com
+127.0.0.1 tag.hockeycurve.com
+127.0.0.1 agl-intl.hotstar.com
+127.0.0.1 sqm.telemetry.microsoft.com
+127.0.0.1 vortex-win.data.microsoft.com
+127.0.0.1 apiv2.moengage.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 logs.gaana.com
+127.0.0.1 apiv3.moengage.com
+127.0.0.1 e-ssl.apsalar.com
+127.0.0.1 ase.clmbtech.com
+127.0.0.1 api.moengage.com
+127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 stat-c.maxthon.com
+127.0.0.1 hotstar.pubnub.net
+127.0.0.1 in-starlive.videoplaza.tv
+127.0.0.1 cdn-settings.segment.com
+127.0.0.1 decide.mixpanel.com
+127.0.0.1 reports.crashlytics.com
+127.0.0.1 api.taplytics.com
+127.0.0.1 in-starlive-preroll.videoplaza.tv
+127.0.0.1 cdn.auditude.com
+127.0.0.1 ibeat.indiatimes.com
+127.0.0.1 static.clmbtech.com
+127.0.0.1 api.branch.io
+127.0.0.1 camsoda.com
+127.0.0.1 www.camsoda.com
+127.0.0.1 msmetrics.ws.sonos.com
+127.0.0.1 betpromo247.com
 
 # Block ads on Voot streaming app @anudeepND
-127.0.0.1	in-viacom18.videoplaza.tv
+127.0.0.1 in-viacom18.videoplaza.tv
 
 # UC apps telemetry
-127.0.0.1	adn.insight.ucweb.com
-127.0.0.1	convhkmp.taboola.com
-127.0.0.1	feedback.uc.cn
-127.0.0.1	gj.applog.uc.cn
-127.0.0.1	gj.track.uc.cn
-127.0.0.1	gjtrack.ucweb.com
-127.0.0.1	imprhkmp.taboola.com
-127.0.0.1	in-gmtdmp.mookie1.com
-127.0.0.1	instory-log.ucnews.ucweb.com
-127.0.0.1	logserver.insight.ucweb.com
-127.0.0.1	click.union.ucweb.com
-127.0.0.1	sg.mmstat.com
-127.0.0.1	woodpecker.uc.cn
+127.0.0.1 adn.insight.ucweb.com
+127.0.0.1 convhkmp.taboola.com
+127.0.0.1 feedback.uc.cn
+127.0.0.1 gj.applog.uc.cn
+127.0.0.1 gj.track.uc.cn
+127.0.0.1 gjtrack.ucweb.com
+127.0.0.1 imprhkmp.taboola.com
+127.0.0.1 in-gmtdmp.mookie1.com
+127.0.0.1 instory-log.ucnews.ucweb.com
+127.0.0.1 logserver.insight.ucweb.com
+127.0.0.1 click.union.ucweb.com
+127.0.0.1 sg.mmstat.com
+127.0.0.1 woodpecker.uc.cn
 
 # Emotet malware domains @anudeepND
-127.0.0.1	nikitinskysport.ru
-127.0.0.1	www.nikitinskysport.ru
-127.0.0.1	beauty-tea.com
-127.0.0.1	www.beauty-tea.com
-127.0.0.1	zekiatagur.com
-127.0.0.1	www.zekiatagur.com
-127.0.0.1	arkonziv.com
-127.0.0.1	www.arkonziv.com
-127.0.0.1	lecap-services.fr
-127.0.0.1	www.lecap-services.fr
+127.0.0.1 nikitinskysport.ru
+127.0.0.1 www.nikitinskysport.ru
+127.0.0.1 beauty-tea.com
+127.0.0.1 www.beauty-tea.com
+127.0.0.1 zekiatagur.com
+127.0.0.1 www.zekiatagur.com
+127.0.0.1 arkonziv.com
+127.0.0.1 www.arkonziv.com
+127.0.0.1 lecap-services.fr
+127.0.0.1 www.lecap-services.fr
 
 # ero-advertising
-127.0.0.1	0latfee.ero-advertising.com
-127.0.0.1	2baners.ero-advertising.com
-127.0.0.1	2ds.ero-advertising.com
-127.0.0.1	2fbanners.ero-advertising.com
-127.0.0.1	2fflatfee.ero-advertising.com
-127.0.0.1	2fspeedclicks.ero-advertising.com
-127.0.0.1	3ds.ero-advertising.com
-127.0.0.1	4anners.ero-advertising.com
-127.0.0.1	9ata.ero-advertising.com
-127.0.0.1	aata.ero-advertising.com
-127.0.0.1	acspaces.ero-advertising.com
-127.0.0.1	ad0.adspaces.ero-advertising.com
-127.0.0.1	ad0.api.ero-advertising.com
-127.0.0.1	ad0.banners.ero-advertising.com
-127.0.0.1	ad0.data2.ero-advertising.com
-127.0.0.1	ad1.ads.ero-advertising.com
-127.0.0.1	ad1.adspaces.ero-advertising.com
-127.0.0.1	ad1.api.ero-advertising.com
-127.0.0.1	ad1.banners.ero-advertising.com
-127.0.0.1	ad1.ero-advertising.com
-127.0.0.1	ad2.adspaces.ero-advertising.com
-127.0.0.1	ad2.api.ero-advertising.com
-127.0.0.1	ad2.banners.ero-advertising.com
-127.0.0.1	ad2.ero-advertising.com
-127.0.0.1	ad2.thumbs.ero-advertising.com
-127.0.0.1	ad3.adspaces.ero-advertising.com
-127.0.0.1	ad3.api.ero-advertising.com
-127.0.0.1	ad3.banners.ero-advertising.com
-127.0.0.1	ad3.fpa.ero-advertising.com
-127.0.0.1	ad4.adspaces.ero-advertising.com
-127.0.0.1	ad4.api.ero-advertising.com
-127.0.0.1	ad4.banners.ero-advertising.com
-127.0.0.1	ad4.layerads.ero-advertising.com
-127.0.0.1	ad4.thumbs.ero-advertising.com
-127.0.0.1	ad5.adspaces.ero-advertising.com
-127.0.0.1	ad5.banners.ero-advertising.com
-127.0.0.1	ad5.fpa.ero-advertising.com
-127.0.0.1	ad6.adspaces.ero-advertising.com
-127.0.0.1	ad6.banners.ero-advertising.com
-127.0.0.1	ad7.adspaces.ero-advertising.com
-127.0.0.1	ad7.api.ero-advertising.com
-127.0.0.1	ad7.banners.ero-advertising.com
-127.0.0.1	ad7.thumbs.ero-advertising.com
-127.0.0.1	ad8.adspaces.ero-advertising.com
-127.0.0.1	ad8.api.ero-advertising.com
-127.0.0.1	ad8.banners.ero-advertising.com
-127.0.0.1	adf.ero-advertising.com
-127.0.0.1	adfpaces.ero-advertising.com
-127.0.0.1	ads1.ero-advertising.com
-127.0.0.1	adsances.ero-advertising.com
-127.0.0.1	adspacds.ero-advertising.com
-127.0.0.1	adspaces.ero-ades.ero-advertising.com
-127.0.0.1	adspaces.ero-apaces.ero-advertising.com
-127.0.0.1	adspaces2.ero-advertising.com
-127.0.0.1	adspaes.ero-advertising.com
-127.0.0.1	adspages.ero-advertising.com
-127.0.0.1	adspcces.ero-advertising.com
-127.0.0.1	adsspaces.ero-advertising.com
-127.0.0.1	adstaces.ero-advertising.com
-127.0.0.1	adw.ero-advertising.com
-127.0.0.1	adwpaces.ero-advertising.com
-127.0.0.1	afs.ero-advertising.com
-127.0.0.1	analytics.adspaces.ero-advertising.com
-127.0.0.1	analytics.ero-advertising.com
-127.0.0.1	anners.ero-advertising.com
-127.0.0.1	ata.ero-advertising.com
-127.0.0.1	ban3ers.ero-advertising.com
-127.0.0.1	ban4ers.ero-advertising.com
-127.0.0.1	banjers.ero-advertising.com
-127.0.0.1	bann12s.ero-advertising.com
-127.0.0.1	bann13s.ero-advertising.com
-127.0.0.1	bann14s.ero-advertising.com
-127.0.0.1	bann1rs.ero-advertising.com
-127.0.0.1	banne2s.ero-advertising.com
-127.0.0.1	banne3s.ero-advertising.com
-127.0.0.1	banne4s.ero-advertising.com
-127.0.0.1	banner.ero-advertising.com
-127.0.0.1	banners1.ero-advertising.com
-127.0.0.1	bannevs.ero-advertising.com
-127.0.0.1	bavners2.ero-advertising.com
-127.0.0.1	blatfee.ero-advertising.com
-127.0.0.1	blog.adspaces.ero-advertising.com
-127.0.0.1	blog.ero-advertising.com
-127.0.0.1	blog.intext.ero-advertising.com
-127.0.0.1	btw.ero-advertising.com
-127.0.0.1	cata.ero-advertising.com
-127.0.0.1	chat.adspaces.ero-advertising.com
-127.0.0.1	chat.ero-advertising.com
-127.0.0.1	cyhners.ero-advertising.com
-127.0.0.1	daaa.ero-advertising.com
-127.0.0.1	daea.ero-advertising.com
-127.0.0.1	daia.ero-advertising.com
-127.0.0.1	dat2.ero-advertising.com
-127.0.0.1	data-ero-advertising.com
-127.0.0.1	data2.ero-advertising.com
-127.0.0.1	date.ero-advertising.com
-127.0.0.1	dats.ero-advertising.com
-127.0.0.1	datt.ero-advertising.com
-127.0.0.1	daua.ero-advertising.com
-127.0.0.1	dava.ero-advertising.com
-127.0.0.1	dawa.ero-advertising.com
-127.0.0.1	dbta.ero-advertising.com
-127.0.0.1	deta.ero-advertising.com
-127.0.0.1	dtta.ero-advertising.com
-127.0.0.1	e-hpaces.ero-advertising.com
-127.0.0.1	eedclicks.ero-advertising.com
-127.0.0.1	ers.ero-advertising.com
-127.0.0.1	es.ero-advertising.com
-127.0.0.1	fanners.ero-advertising.com
-127.0.0.1	fata.ero-advertising.com
-127.0.0.1	fhatfee.ero-advertising.com
-127.0.0.1	flashtest.ero-advertising.com
-127.0.0.1	flatdee.ero-advertising.com
-127.0.0.1	flatfae.ero-advertising.com
-127.0.0.1	flatfea.ero-advertising.com
-127.0.0.1	flatfee.ero-advertising.com
-127.0.0.1	flw.ero-advertising.com
-127.0.0.1	fnatfee.ero-advertising.com
-127.0.0.1	forum.adspaces.ero-advertising.com
-127.0.0.1	forum.ero-advertising.com
-127.0.0.1	forums.adspaces.ero-advertising.com
-127.0.0.1	forums.data2.ero-advertising.com
-127.0.0.1	forums.ero-advertising.com
-127.0.0.1	fpa.ero-advertising.com
-127.0.0.1	gata.ero-advertising.com
-127.0.0.1	hata.ero-advertising.com
-127.0.0.1	idspaces.ero-advertising.com
-127.0.0.1	imeds.ero-advertising.com
-127.0.0.1	intext.ero-advertising.com
-127.0.0.1	ioads.ero-advertising.com
-127.0.0.1	js.ads.ero-advertising.com
-127.0.0.1	kds.ero-advertising.com
-127.0.0.1	layers.ero-advertising.com
-127.0.0.1	mata.ero-advertising.com
-127.0.0.1	miami.ero-advertising.com
-127.0.0.1	mobileads.ero-advertising.com
-127.0.0.1	movieads.ero-advertising.com
-127.0.0.1	mx.ero-advertising.com
-127.0.0.1	mybb.ero-advertising.com
-127.0.0.1	nata.ero-advertising.com
-127.0.0.1	nl1.ero-advertising.com
-127.0.0.1	nl2.ero-advertising.com
-127.0.0.1	nners.ero-advertising.com
-127.0.0.1	oata.ero-advertising.com
-127.0.0.1	opads.ero-advertising.com
-127.0.0.1	pagepeel.ero-advertising.com
-127.0.0.1	pata.ero-advertising.com
-127.0.0.1	phpmyadmin.ads.ero-advertising.com
-127.0.0.1	phpmyadmin.ero-advertising.com
-127.0.0.1	phpmyadmin.js.ero-advertising.com
-127.0.0.1	piwik.adspaces.ero-advertising.com
-127.0.0.1	piwik.ero-advertising.com
-127.0.0.1	popacs.ero-advertising.com
-127.0.0.1	rata.ero-advertising.com
-127.0.0.1	redirect.ero-advertising.com
-127.0.0.1	rs.ero-advertising.com
-127.0.0.1	rs2.ero-advertising.com
-127.0.0.1	s.ero-advertising.com
-127.0.0.1	s10.hiadspaces.ero-advertising.com
-127.0.0.1	s10.hipaces.ero-advertising.com
-127.0.0.1	s10.his.ero-advertising.com
-127.0.0.1	s10.hispaces.ero-advertising.com
-127.0.0.1	s10.histas.ero-advertising.com
-127.0.0.1	s10.histats.com.ero-advertising.com
+127.0.0.1 0latfee.ero-advertising.com
+127.0.0.1 2baners.ero-advertising.com
+127.0.0.1 2ds.ero-advertising.com
+127.0.0.1 2fbanners.ero-advertising.com
+127.0.0.1 2fflatfee.ero-advertising.com
+127.0.0.1 2fspeedclicks.ero-advertising.com
+127.0.0.1 3ds.ero-advertising.com
+127.0.0.1 4anners.ero-advertising.com
+127.0.0.1 9ata.ero-advertising.com
+127.0.0.1 aata.ero-advertising.com
+127.0.0.1 acspaces.ero-advertising.com
+127.0.0.1 ad0.adspaces.ero-advertising.com
+127.0.0.1 ad0.api.ero-advertising.com
+127.0.0.1 ad0.banners.ero-advertising.com
+127.0.0.1 ad0.data2.ero-advertising.com
+127.0.0.1 ad1.ads.ero-advertising.com
+127.0.0.1 ad1.adspaces.ero-advertising.com
+127.0.0.1 ad1.api.ero-advertising.com
+127.0.0.1 ad1.banners.ero-advertising.com
+127.0.0.1 ad1.ero-advertising.com
+127.0.0.1 ad2.adspaces.ero-advertising.com
+127.0.0.1 ad2.api.ero-advertising.com
+127.0.0.1 ad2.banners.ero-advertising.com
+127.0.0.1 ad2.ero-advertising.com
+127.0.0.1 ad2.thumbs.ero-advertising.com
+127.0.0.1 ad3.adspaces.ero-advertising.com
+127.0.0.1 ad3.api.ero-advertising.com
+127.0.0.1 ad3.banners.ero-advertising.com
+127.0.0.1 ad3.fpa.ero-advertising.com
+127.0.0.1 ad4.adspaces.ero-advertising.com
+127.0.0.1 ad4.api.ero-advertising.com
+127.0.0.1 ad4.banners.ero-advertising.com
+127.0.0.1 ad4.layerads.ero-advertising.com
+127.0.0.1 ad4.thumbs.ero-advertising.com
+127.0.0.1 ad5.adspaces.ero-advertising.com
+127.0.0.1 ad5.banners.ero-advertising.com
+127.0.0.1 ad5.fpa.ero-advertising.com
+127.0.0.1 ad6.adspaces.ero-advertising.com
+127.0.0.1 ad6.banners.ero-advertising.com
+127.0.0.1 ad7.adspaces.ero-advertising.com
+127.0.0.1 ad7.api.ero-advertising.com
+127.0.0.1 ad7.banners.ero-advertising.com
+127.0.0.1 ad7.thumbs.ero-advertising.com
+127.0.0.1 ad8.adspaces.ero-advertising.com
+127.0.0.1 ad8.api.ero-advertising.com
+127.0.0.1 ad8.banners.ero-advertising.com
+127.0.0.1 adf.ero-advertising.com
+127.0.0.1 adfpaces.ero-advertising.com
+127.0.0.1 ads1.ero-advertising.com
+127.0.0.1 adsances.ero-advertising.com
+127.0.0.1 adspacds.ero-advertising.com
+127.0.0.1 adspaces.ero-ades.ero-advertising.com
+127.0.0.1 adspaces.ero-apaces.ero-advertising.com
+127.0.0.1 adspaces2.ero-advertising.com
+127.0.0.1 adspaes.ero-advertising.com
+127.0.0.1 adspages.ero-advertising.com
+127.0.0.1 adspcces.ero-advertising.com
+127.0.0.1 adsspaces.ero-advertising.com
+127.0.0.1 adstaces.ero-advertising.com
+127.0.0.1 adw.ero-advertising.com
+127.0.0.1 adwpaces.ero-advertising.com
+127.0.0.1 afs.ero-advertising.com
+127.0.0.1 analytics.adspaces.ero-advertising.com
+127.0.0.1 analytics.ero-advertising.com
+127.0.0.1 anners.ero-advertising.com
+127.0.0.1 ata.ero-advertising.com
+127.0.0.1 ban3ers.ero-advertising.com
+127.0.0.1 ban4ers.ero-advertising.com
+127.0.0.1 banjers.ero-advertising.com
+127.0.0.1 bann12s.ero-advertising.com
+127.0.0.1 bann13s.ero-advertising.com
+127.0.0.1 bann14s.ero-advertising.com
+127.0.0.1 bann1rs.ero-advertising.com
+127.0.0.1 banne2s.ero-advertising.com
+127.0.0.1 banne3s.ero-advertising.com
+127.0.0.1 banne4s.ero-advertising.com
+127.0.0.1 banner.ero-advertising.com
+127.0.0.1 banners1.ero-advertising.com
+127.0.0.1 bannevs.ero-advertising.com
+127.0.0.1 bavners2.ero-advertising.com
+127.0.0.1 blatfee.ero-advertising.com
+127.0.0.1 blog.adspaces.ero-advertising.com
+127.0.0.1 blog.ero-advertising.com
+127.0.0.1 blog.intext.ero-advertising.com
+127.0.0.1 btw.ero-advertising.com
+127.0.0.1 cata.ero-advertising.com
+127.0.0.1 chat.adspaces.ero-advertising.com
+127.0.0.1 chat.ero-advertising.com
+127.0.0.1 cyhners.ero-advertising.com
+127.0.0.1 daaa.ero-advertising.com
+127.0.0.1 daea.ero-advertising.com
+127.0.0.1 daia.ero-advertising.com
+127.0.0.1 dat2.ero-advertising.com
+127.0.0.1 data-ero-advertising.com
+127.0.0.1 data2.ero-advertising.com
+127.0.0.1 date.ero-advertising.com
+127.0.0.1 dats.ero-advertising.com
+127.0.0.1 datt.ero-advertising.com
+127.0.0.1 daua.ero-advertising.com
+127.0.0.1 dava.ero-advertising.com
+127.0.0.1 dawa.ero-advertising.com
+127.0.0.1 dbta.ero-advertising.com
+127.0.0.1 deta.ero-advertising.com
+127.0.0.1 dtta.ero-advertising.com
+127.0.0.1 e-hpaces.ero-advertising.com
+127.0.0.1 eedclicks.ero-advertising.com
+127.0.0.1 ers.ero-advertising.com
+127.0.0.1 es.ero-advertising.com
+127.0.0.1 fanners.ero-advertising.com
+127.0.0.1 fata.ero-advertising.com
+127.0.0.1 fhatfee.ero-advertising.com
+127.0.0.1 flashtest.ero-advertising.com
+127.0.0.1 flatdee.ero-advertising.com
+127.0.0.1 flatfae.ero-advertising.com
+127.0.0.1 flatfea.ero-advertising.com
+127.0.0.1 flatfee.ero-advertising.com
+127.0.0.1 flw.ero-advertising.com
+127.0.0.1 fnatfee.ero-advertising.com
+127.0.0.1 forum.adspaces.ero-advertising.com
+127.0.0.1 forum.ero-advertising.com
+127.0.0.1 forums.adspaces.ero-advertising.com
+127.0.0.1 forums.data2.ero-advertising.com
+127.0.0.1 forums.ero-advertising.com
+127.0.0.1 fpa.ero-advertising.com
+127.0.0.1 gata.ero-advertising.com
+127.0.0.1 hata.ero-advertising.com
+127.0.0.1 idspaces.ero-advertising.com
+127.0.0.1 imeds.ero-advertising.com
+127.0.0.1 intext.ero-advertising.com
+127.0.0.1 ioads.ero-advertising.com
+127.0.0.1 js.ads.ero-advertising.com
+127.0.0.1 kds.ero-advertising.com
+127.0.0.1 layers.ero-advertising.com
+127.0.0.1 mata.ero-advertising.com
+127.0.0.1 miami.ero-advertising.com
+127.0.0.1 mobileads.ero-advertising.com
+127.0.0.1 movieads.ero-advertising.com
+127.0.0.1 mx.ero-advertising.com
+127.0.0.1 mybb.ero-advertising.com
+127.0.0.1 nata.ero-advertising.com
+127.0.0.1 nl1.ero-advertising.com
+127.0.0.1 nl2.ero-advertising.com
+127.0.0.1 nners.ero-advertising.com
+127.0.0.1 oata.ero-advertising.com
+127.0.0.1 opads.ero-advertising.com
+127.0.0.1 pagepeel.ero-advertising.com
+127.0.0.1 pata.ero-advertising.com
+127.0.0.1 phpmyadmin.ads.ero-advertising.com
+127.0.0.1 phpmyadmin.ero-advertising.com
+127.0.0.1 phpmyadmin.js.ero-advertising.com
+127.0.0.1 piwik.adspaces.ero-advertising.com
+127.0.0.1 piwik.ero-advertising.com
+127.0.0.1 popacs.ero-advertising.com
+127.0.0.1 rata.ero-advertising.com
+127.0.0.1 redirect.ero-advertising.com
+127.0.0.1 rs.ero-advertising.com
+127.0.0.1 rs2.ero-advertising.com
+127.0.0.1 s.ero-advertising.com
+127.0.0.1 s10.hiadspaces.ero-advertising.com
+127.0.0.1 s10.hipaces.ero-advertising.com
+127.0.0.1 s10.his.ero-advertising.com
+127.0.0.1 s10.hispaces.ero-advertising.com
+127.0.0.1 s10.histas.ero-advertising.com
+127.0.0.1 s10.histats.com.ero-advertising.com
 127.0.0.1 sstatic1.histats.com
-127.0.0.1	s10paces.ero-advertising.com
-127.0.0.1	s7.adaces.ero-advertising.com
-127.0.0.1	sin.ero-advertising.com
-127.0.0.1	smtp.ero-advertising.com
-127.0.0.1	spaces.ero-advertising.com
-127.0.0.1	speed4cksa.ero-advertising.com
-127.0.0.1	speedclecks.ero-advertising.com
-127.0.0.1	speedclics.ero-advertising.com
-127.0.0.1	speedlicks.ero-advertising.com
-127.0.0.1	speeuclicks.ero-advertising.com
-127.0.0.1	stats.adspaces.ero-advertising.com
-127.0.0.1	stats.data2.ero-advertising.com
-127.0.0.1	stats.ero-advertising.com
-127.0.0.1	stats.speedclicks.ero-advertising.com
-127.0.0.1	steenbergen.web.ero-advertising.com
-127.0.0.1	tcm.optica.ero-advertising.com
-127.0.0.1	tex.ero-advertising.com
-127.0.0.1	thumb.ero-advertising.com
-127.0.0.1	thumbads.ero-advertising.com
-127.0.0.1	thumbs.xlaces.ero-advertising.com
-127.0.0.1	thumbs2.ero-advertising.com
-127.0.0.1	tiumbs.ero-advertising.com
-127.0.0.1	topads.ero-advertising.com
-127.0.0.1	tracking.ero-advertising.com
-127.0.0.1	typo3.ero-advertising.com
-127.0.0.1	umbs.ero-advertising.com
-127.0.0.1	users.ero-advertising.com
-127.0.0.1	wdata.ero-advertising.com
-127.0.0.1	webstats.adspaces.ero-advertising.com
-127.0.0.1	wiki.adspaces.ero-advertising.com
-127.0.0.1	wiki.ero-advertising.com
-127.0.0.1	wks.ero-advertising.com
-127.0.0.1	wow.ero-advertising.com
-127.0.0.1	wsw.ero-advertising.com
-127.0.0.1	wta.ero-advertising.com
-127.0.0.1	ww2.ero-advertising.com
-127.0.0.1	wwa.ero-advertising.com
-127.0.0.1	wwbanners2.ero-advertising.com
-127.0.0.1	wws.ero-advertising.com
-127.0.0.1	www.a.ero-advertising.com
-127.0.0.1	www.ads.ero-advertising.com
-127.0.0.1	www.adspaces.ero-advertising.com
-127.0.0.1	www.banners.ero-advertising.com
-127.0.0.1	www.banners2.ero-advertising.com
-127.0.0.1	www.data-ero-advertising.com
-127.0.0.1	www.ero-adverising.com.ero-advertising.com
-127.0.0.1	www.ero-advertising.com
-127.0.0.1	www.imads.ero-advertising.com
-127.0.0.1	www.movieads.ero-advertising.com
-127.0.0.1	www.popads.ero-advertising.com
-127.0.0.1	www.speedclicks.ero-advertising.com
-127.0.0.1	www.thumb.ero-advertising.com
-127.0.0.1	xn--adspace-kvg.ero-advertising.com
-127.0.0.1	zww.ero-advertising.com
-127.0.0.1	redshell.io
-127.0.0.1	api.redshell.io
-127.0.0.1	treasuredata.com
-127.0.0.1	api.treasuredata.com
+127.0.0.1 s10paces.ero-advertising.com
+127.0.0.1 s7.adaces.ero-advertising.com
+127.0.0.1 sin.ero-advertising.com
+127.0.0.1 smtp.ero-advertising.com
+127.0.0.1 spaces.ero-advertising.com
+127.0.0.1 speed4cksa.ero-advertising.com
+127.0.0.1 speedclecks.ero-advertising.com
+127.0.0.1 speedclics.ero-advertising.com
+127.0.0.1 speedlicks.ero-advertising.com
+127.0.0.1 speeuclicks.ero-advertising.com
+127.0.0.1 stats.adspaces.ero-advertising.com
+127.0.0.1 stats.data2.ero-advertising.com
+127.0.0.1 stats.ero-advertising.com
+127.0.0.1 stats.speedclicks.ero-advertising.com
+127.0.0.1 steenbergen.web.ero-advertising.com
+127.0.0.1 tcm.optica.ero-advertising.com
+127.0.0.1 tex.ero-advertising.com
+127.0.0.1 thumb.ero-advertising.com
+127.0.0.1 thumbads.ero-advertising.com
+127.0.0.1 thumbs.xlaces.ero-advertising.com
+127.0.0.1 thumbs2.ero-advertising.com
+127.0.0.1 tiumbs.ero-advertising.com
+127.0.0.1 topads.ero-advertising.com
+127.0.0.1 tracking.ero-advertising.com
+127.0.0.1 typo3.ero-advertising.com
+127.0.0.1 umbs.ero-advertising.com
+127.0.0.1 users.ero-advertising.com
+127.0.0.1 wdata.ero-advertising.com
+127.0.0.1 webstats.adspaces.ero-advertising.com
+127.0.0.1 wiki.adspaces.ero-advertising.com
+127.0.0.1 wiki.ero-advertising.com
+127.0.0.1 wks.ero-advertising.com
+127.0.0.1 wow.ero-advertising.com
+127.0.0.1 wsw.ero-advertising.com
+127.0.0.1 wta.ero-advertising.com
+127.0.0.1 ww2.ero-advertising.com
+127.0.0.1 wwa.ero-advertising.com
+127.0.0.1 wwbanners2.ero-advertising.com
+127.0.0.1 wws.ero-advertising.com
+127.0.0.1 www.a.ero-advertising.com
+127.0.0.1 www.ads.ero-advertising.com
+127.0.0.1 www.adspaces.ero-advertising.com
+127.0.0.1 www.banners.ero-advertising.com
+127.0.0.1 www.banners2.ero-advertising.com
+127.0.0.1 www.data-ero-advertising.com
+127.0.0.1 www.ero-adverising.com.ero-advertising.com
+127.0.0.1 www.ero-advertising.com
+127.0.0.1 www.imads.ero-advertising.com
+127.0.0.1 www.movieads.ero-advertising.com
+127.0.0.1 www.popads.ero-advertising.com
+127.0.0.1 www.speedclicks.ero-advertising.com
+127.0.0.1 www.thumb.ero-advertising.com
+127.0.0.1 xn--adspace-kvg.ero-advertising.com
+127.0.0.1 zww.ero-advertising.com
+127.0.0.1 redshell.io
+127.0.0.1 api.redshell.io
+127.0.0.1 treasuredata.com
+127.0.0.1 api.treasuredata.com
 
 # Other Ads
-127.0.0.1	api.userstyles.org
-127.0.0.1	hrtya.com
-127.0.0.1	greatmacsoft.tech
-127.0.0.1	adscan.yelabapp.com
-127.0.0.1	myfreecams.com
-127.0.0.1	www.myfreecams.com
+127.0.0.1 api.userstyles.org
+127.0.0.1 hrtya.com
+127.0.0.1 greatmacsoft.tech
+127.0.0.1 adscan.yelabapp.com
+127.0.0.1 myfreecams.com
+127.0.0.1 www.myfreecams.com
 
 #Youtube
 127.0.0.1 ads.youtube.com
 127.0.0.1 youtube.2cnt.net
 127.0.0.1 ssl-youtube.2cnt.net
-127.0.0.1	s2.youtube.com
-127.0.0.1	s.youtube.com
+127.0.0.1 s2.youtube.com
+127.0.0.1 s.youtube.com
 
 #Block Rosetta Stone
 #16.217.0.0 = *.ip.att.net
@@ -1346,15 +1337,15 @@
 127.0.0.1 h30495.www3.hp.com
 127.0.0.1 cacerts.digicert.com
 127.0.0.1 www3.hp.com
-127.0.0.1	www8.hp.com
-127.0.0.1	www.hp.com
-127.0.0.1	h41310.www4.hp.com
-127.0.0.1	www4.hp.com
-127.0.0.1	h41336.www4.hp.com
-127.0.0.1	mq.dataservices.hp.com
-127.0.0.1	dataservices.hp.com
-127.0.0.1	www1.hp.com
-127.0.0.1	ssl.www8.hp.com
+127.0.0.1 www8.hp.com
+127.0.0.1 www.hp.com
+127.0.0.1 h41310.www4.hp.com
+127.0.0.1 www4.hp.com
+127.0.0.1 h41336.www4.hp.com
+127.0.0.1 mq.dataservices.hp.com
+127.0.0.1 dataservices.hp.com
+127.0.0.1 www1.hp.com
+127.0.0.1 ssl.www8.hp.com
 
 #Firefox
 127.0.0.1 incoming.telemetry.mozilla.org
@@ -1382,8 +1373,8 @@
 #Twitch Maybe
 
 #CNET Download
-#127.0.0.1	download.cnet.com
-#127.0.0.1	www.cnet.com
+#127.0.0.1 download.cnet.com
+#127.0.0.1 www.cnet.com
 
 #CyberLink
 127.0.0.1 activation.cyberlink.com
@@ -1393,7 +1384,7 @@
 127.0.0.1 log.quora.com
 
 #Disqus
-127.0.0.1	disqus.com
+127.0.0.1 disqus.com
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 www.javdict.disqus.com
 127.0.0.1 disqusads.com
@@ -1401,57 +1392,57 @@
 127.0.0.1 javdict.disqus.com
 127.0.0.1 tempest.services.disqus.com
 127.0.0.1 links.services.disqus.com
-127.0.0.1	disqus.com
-127.0.0.1	www.disqus.com
-127.0.0.1	www.disqusads.com
-127.0.0.1	www.disquscdn.com
-127.0.0.1	c.disquscdn.com
+127.0.0.1 disqus.com
+127.0.0.1 www.disqus.com
+127.0.0.1 www.disqusads.com
+127.0.0.1 www.disquscdn.com
+127.0.0.1 c.disquscdn.com
 
 #Wondershare
-127.0.0.1	activation.cyberlink.com
-127.0.0.1	platform.wondershare.com
+127.0.0.1 activation.cyberlink.com
+127.0.0.1 platform.wondershare.com
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 was.wondershare.com
 127.0.0.1 myphone-api.wondershare.cc
 127.0.0.1 www.wondershare.cc
-127.0.0.1	www.digitaltrends.com
+127.0.0.1 www.digitaltrends.com
 127.0.0.1 myphone-download.wondershare.cc
 127.0.0.1 cbs.wondershare.com
 127.0.0.1 was-stats.wondershare.com
 127.0.0.1 us.wondershare.com
 127.0.0.1 myphone-api.wondershare.cc
-127.0.0.1	sf.symcb.com
-127.0.0.1	sv.symcd.com
-127.0.0.1	sa.symcd.com
-127.0.0.1	sb.symcd.com
-127.0.0.1	sc.symcd.com
-127.0.0.1	sd.symcd.com
-127.0.0.1	se.symcd.com
-127.0.0.1	sh.symcd.com
-127.0.0.1	si.symcd.com
-127.0.0.1	sj.symcd.com
-127.0.0.1	sk.symcd.com
-127.0.0.1	sl.symcd.com
-127.0.0.1	sm.symcd.com
-127.0.0.1	sn.symcd.com
-127.0.0.1	so.symcd.com
-127.0.0.1	sp.symcd.com
-127.0.0.1	sq.symcd.com
-127.0.0.1	sr.symcd.com
-127.0.0.1	ss.symcd.com
-127.0.0.1	st.symcd.com
-127.0.0.1	su.symcd.com
-127.0.0.1	sw.symcd.com
-127.0.0.1	sx.symcd.com
-127.0.0.1	sy.symcd.com
-127.0.0.1	sz.symcd.com
-127.0.0.1	www.symcd.com
+127.0.0.1 sf.symcb.com
+127.0.0.1 sv.symcd.com
+127.0.0.1 sa.symcd.com
+127.0.0.1 sb.symcd.com
+127.0.0.1 sc.symcd.com
+127.0.0.1 sd.symcd.com
+127.0.0.1 se.symcd.com
+127.0.0.1 sh.symcd.com
+127.0.0.1 si.symcd.com
+127.0.0.1 sj.symcd.com
+127.0.0.1 sk.symcd.com
+127.0.0.1 sl.symcd.com
+127.0.0.1 sm.symcd.com
+127.0.0.1 sn.symcd.com
+127.0.0.1 so.symcd.com
+127.0.0.1 sp.symcd.com
+127.0.0.1 sq.symcd.com
+127.0.0.1 sr.symcd.com
+127.0.0.1 ss.symcd.com
+127.0.0.1 st.symcd.com
+127.0.0.1 su.symcd.com
+127.0.0.1 sw.symcd.com
+127.0.0.1 sx.symcd.com
+127.0.0.1 sy.symcd.com
+127.0.0.1 sz.symcd.com
+127.0.0.1 www.symcd.com
 
 #MSN
-127.0.0.1	apiservices.krxd.net
-127.0.0.1	sdad.guru
-127.0.0.1	www.msn.com
-127.0.0.1	msn.com
+127.0.0.1 apiservices.krxd.net
+127.0.0.1 sdad.guru
+127.0.0.1 www.msn.com
+127.0.0.1 msn.com
 
 #Microsoft
 127.0.0.1 msftconnecttest.com
@@ -1496,11 +1487,11 @@
 127.0.0.1 console.bluemix.net
 127.0.0.1 bluemix.net
 127.0.0.1 api.www.s81c.com
-127.0.0.1	www.hs-analytics.net
+127.0.0.1 www.hs-analytics.net
 127.0.0.1 mhotspot.com
-127.0.0.1	update.raxco.com
-127.0.0.1	remote.fasitiwhesi.com
-127.0.0.1	ww3.fasitiwhesi.com
+127.0.0.1 update.raxco.com
+127.0.0.1 remote.fasitiwhesi.com
+127.0.0.1 ww3.fasitiwhesi.com
 127.0.0.1 static.quantcast.mgr.consensu.org
 127.0.0.1 consensu.org
 127.0.0.1 data.flurry.com
@@ -2552,12 +2543,7 @@
 
 #=====================================
 # End StevenBlack
-
-# Start malwaredomainlist.com
-
-#               MalwareDomainList.com Hosts List           #
-#   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Thu, 21 Feb 19 17:45:13 +0000      #
+#www.malwaredomainlist.com/hostslist/hosts.txt
 
 127.0.0.1 0koryu0.easter.ne.jp
 127.0.0.1 109-204-26-16.netconnexion.managedbroadband.co.uk
@@ -3771,83 +3757,11 @@
 
 # Start someonewhocares.org
 
-# This hosts file is brought to you by Dan Pollock and can be found at
-# http://someonewhocares.org/hosts/zero/
-# You are free to copy and distribute this file for non-commercial uses,
-# as long the original URL and attribution is included. 
-# 
-# See below for acknowledgements.
+# This hosts file by Dan Pollock
 
-# Please forward any additions, corrections or comments by email to
-# hosts@someonewhocares.org
-
-# Last updated: Tue, 19 Feb 2019 at 10:44:01 GMT
-
-# Use this file to prevent your computer from connecting to selected
-# internet hosts. This is an easy and effective way to protect you from 
-# many types of spyware, reduces bandwidth use, blocks certain pop-up 
-# traps, prevents user tracking by way of "web bugs" embedded in spam,
-# provides partial protection to IE from certain web-based exploits and
-# blocks most advertising you would otherwise be subjected to on the 
-# internet. 
-
-# There is a version of this file that uses 127.0.0.1 instead of 127.0.0.1 
-# available at http://someonewhocares.org/hosts/.
-# On some machines this may run minutely faster, however the zero version
-# may not be compatible with all systems. 
-
-# This file must be saved as a text file with no extension. (This means
-# that the file name should be exactly as below, without a ".txt" appended.)
-
-# Let me repeat, the file should be named "hosts" NOT "hosts.txt".
-
-# For Windows 9x and ME place this file at "C:\Windows\hosts"
-# For NT, Win2K and XP use "C:\windows\system32\drivers\etc\hosts"
-#                       or "C:\winnt\system32\drivers\etc\hosts"
-# For Windows 7 and Vista use "C:\windows\system32\drivers\etc\hosts"
-#			or "%systemroot%\system32\drivers\etc\hosts"
-# For Windows 8 and Windows 10 use "C:\Windows\System32\drivers\etc\hosts"
-# 		You may need to tell Windows Defender to ignore this path
-# 		see: http://support.microsoft.com/kb/2764944
-# You may have to use Notepad and "Run as Administrator"
-#
-# For Linux, Unix, or OS X place this file at "/etc/hosts" or on some
-#    systems at "/private/etc/hosts". You will require root access to do
-#    this. Saving this file to "~/hosts" will allow you to run something
-#    like "sudo cp ~/hosts /etc/hosts".
-# For OS/2 copy the file to "%ETC%\HOSTS" and in the CONFIG.SYS file,
-#    ensure that the line "SET USE_HOSTS_FIRST=1" is included.
-# For BeOS place it at "/boot/beos/etc/hosts"
-# On a Netware system, the location is System\etc\hosts"
-# For Macintosh (pre OS X) place it in the Mac System Folder or Preferences
-#    folder and reboot. (something like HD:System Folder:Preferences:Hosts)
-#    Alternatively you can save it elsewhere on your machine, then go to the 
-#    TCP/IP control panel and click on "Select hosts file" to read it in.
-#    ------------------
-#    | As well, note that the format is different on old macs, so
-#    | please visit http://someonewhocares.org/hosts/zero/mac/ for mac format
-# For Android place the file at "/system/etc/hosts". You will need root
-#   access on your device to do this.
-#    ------------------
-# To convert the hosts file to a set of Cisco IOS commands for Cisco routers
-#   use this script by Jesse Baird:
-#   http://jebaird.com/2012/12/21/hosts-to-ip-host-generating-blocked-hosts-from-a-host-file-for-a-cisco-router.html
-
-# If there is a domain name you would rather never see, simply add a line
-# that reads "127.0.0.1 machine.domain.tld". This will have the effect of
-# redirecting any requests to that host to your own computer. For example
-# this will prevent your browser from downloading banner ads, or sending
-# your information back to a company.
-
-#
-#fe80::1%lo0	localhost
-#
-
-#
-# For example, to block unpleasant pages, try:
-127.0.0.1 goatse.cx  # More information on sites such as
-127.0.0.1 www.goatse.cx  # these can be found in this article
-127.0.0.1 oralse.cx  # en.wikipedia.org/wiki/List_of_shock_sites
+127.0.0.1 goatse.cx 
+127.0.0.1 www.goatse.cx 
+127.0.0.1 oralse.cx 
 127.0.0.1 www.oralse.cx
 127.0.0.1 goatse.ca
 127.0.0.1 www.goatse.ca
@@ -4040,69 +3954,10 @@
 127.0.0.1 www.zentastic.com
 127.0.0.1 youaresogay.com
 127.0.0.1 zentastic.com
-#
-
-#
-# As well by specifying the ipaddress of a server, you can gain access
-#   to some of your favourite sites with a single letter, instead of
-#   using the whole domain name
-# It is perhaps a better solution to use Favourites/Bookmarks instead.
-#216.34.181.45   s        # slashdot.org
-#74.125.127.105	g        # google.com
-#
-
-#
-# The sites ads234.com and ads345.com -- These sites hijack internet explorer 
-# and redirect all requests through their servers. You may need to use spyware 
-# removal programs such as SpyBotS&D, AdAware or HijackThis to remove this 
-# nasty parasite. It's possible that blocking these sites using a hosts file 
-# may not work, in which case you should remove the following lines from this
-# file and try the tools listed above immediately. Don't forget to reboot 
-# after a scan.
 127.0.0.1 ads234.com
 127.0.0.1 ads345.com
 127.0.0.1 www.ads234.com
 127.0.0.1 www.ads345.com
-#
-
-#
-# Spyware and user tracking
-# By entering domains here, it will prevent certain companies from
-# gathering information on your surfing habits. These servers do not
-# necessarily serve ads, instead some are used by certain products to
-# "phone home". Others use web cookies to gather statistics on surfing 
-# habits. Among other uses, this is a common tactic by spammers, to 
-# let them know that you have read your mail. 
-# Uncomment (remove the #) the lines that you wish to block, as some
-# may provide you with services you like.
-
-#
-#127.0.0.1 auto.search.msn.com  # Microsoft uses this server to redirect
-                                # mistyped URLs to search engines. They
-                                # log all such errors.
-#127.0.0.1 sitefinder.verisign.com	# Verisign has joined the game 
-#127.0.0.1 sitefinder-idn.verisign.com	# of trying to hijack mistyped
-					# URLs to their site. 
-					# May break iOS Game Center.
-
-#127.0.0.1 s0.2mdn.net		# This may interfere with some streaming 
-				# video on sites such as cbc.ca
-#127.0.0.1 ad.doubleclick.net   # This may interefere with www.sears.com
-				# and potentially other sites. 
-127.0.0.1 media.fastclick.net  # Likewise, this may interfere with some
-127.0.0.1 cdn.fastclick.net  # sites.
-#127.0.0.1 ebay.doubleclick.net		# may interfere with ebay
-#127.0.0.1 google-analytics.com			# breaks some sites
-#127.0.0.1 ssl.google-analytics.com
-#127.0.0.1 www.google-analytics.l.google.com
-#127.0.0.1 stat.livejournal.com		# There are reports that this may mess 
- 					# up CSS on livejournal
-#127.0.0.1 stats.surfaid.ihost.com	# This has been known cause 
-					# problems with NPR.org
-#127.0.0.1 www.google-analytics.com		# breaks some sites
-#127.0.0.1 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
-#
-
 127.0.0.1 006.free-counter.co.uk
 127.0.0.1 006.freecounters.co.uk
 127.0.0.1 06272002-dbase.hitcountz.net  # Web bugs in spam
@@ -4135,8 +3990,10 @@
 127.0.0.1 adelogs.adobe.com  #See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 127.0.0.1 ademails.com
 127.0.0.1 adlog.com.com  # Used by Ziff Davis to serve
-  # ads and track users across 
-  # the com.com family of sites
+
+
+# ads and track users across 
+# the com.com family of sites
 127.0.0.1 ad-logics.com
 127.0.0.1 admanmail.com
 127.0.0.1 admin.iesnare.com
@@ -4286,7 +4143,7 @@
 127.0.0.1 cig-arrete.com
 127.0.0.1 ci-mpsnare.iesnare.com
 127.0.0.1 ci-mpsnare.iesnare.co.uk
-#127.0.0.1 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
+127.0.0.1 ci-mpsnare.iovation.com # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 127.0.0.1 ci-snare.iovation.com
 127.0.0.1 citrix.tradedoubler.com
 127.0.0.1 cjt1.net
@@ -4756,7 +4613,7 @@
 127.0.0.1 link.masterstats.com
 127.0.0.1 linktrack.bravenet.com
 127.0.0.1 livestats.atlanta-airport.com
-#127.0.0.1 ll.a.hulu.com	# Uncomment to block Hulu.
+#127.0.0.1 ll.a.hulu.com # Uncomment to block Hulu.
 127.0.0.1 loadus.exelator.com
 127.0.0.1 loc1.hitsprocessor.com
 127.0.0.1 lockerdome.com
@@ -4868,7 +4725,7 @@
 127.0.0.1 metrics.thefrisky.com
 127.0.0.1 metrics.thenation.com
 127.0.0.1 metrics.theweathernetwork.com
-#127.0.0.1 metrics.ticketmaster.com	# interferes with logging in to ticketmaster.com
+#127.0.0.1 metrics.ticketmaster.com # interferes with logging in to ticketmaster.com
 127.0.0.1 metrics.tmz.com
 127.0.0.1 metrics.toyota.com
 127.0.0.1 metrics.tulsaworld.com
@@ -4908,7 +4765,7 @@
 127.0.0.1 nexttrk.com
 127.0.0.1 nht-2.extreme-dm.com
 127.0.0.1 nl.nedstatbasic.net
-#127.0.0.1 nl.sitestat.com	# may interfere with duo.nl
+#127.0.0.1 nl.sitestat.com # may interfere with duo.nl
 127.0.0.1 noticias.life
 127.0.0.1 notify1.brucelead.com
 #127.0.0.1 o.addthis.com
@@ -4960,7 +4817,7 @@
 127.0.0.1 p.reuters.com
 127.0.0.1 printmail.biz
 127.0.0.1 prof.estat.com
-#127.0.0.1 pro.hit.gemius.pl	# May interfere with some video sites
+#127.0.0.1 pro.hit.gemius.pl # May interfere with some video sites
 127.0.0.1 proxycfg.marketscore.com
 127.0.0.1 proxy.ia2.marketscore.com
 127.0.0.1 proxy.ia3.marketscore.com
@@ -5268,7 +5125,7 @@
 127.0.0.1 sync.clickonometrics.pl
 127.0.0.1 s.youtube.com  # Blocking this will interfere with video watching history
 127.0.0.1 systweak.com
-#127.0.0.1 t2.hulu.com		# Uncomment to block Hulu.
+#127.0.0.1 t2.hulu.com  # Uncomment to block Hulu.
 127.0.0.1 tag.crsspxl.com
 127.0.0.1 tagging.outrider.com
 127.0.0.1 tags.bkrtx.com
@@ -5352,7 +5209,7 @@
 127.0.0.1 track.grmtracking.com
 127.0.0.1 track.homestead.com
 127.0.0.1 track.hotdrugsstore.in
-#127.0.0.1 track.hulu.com	# Uncomment to block Hulu.
+#127.0.0.1 track.hulu.com # Uncomment to block Hulu.
 127.0.0.1 track.india-marketing.in
 127.0.0.1 tracking.10e20.com
 127.0.0.1 tracking.3com.com
@@ -5753,7 +5610,7 @@
 127.0.0.1 www.fxcounters.com
 127.0.0.1 www.gator.com
 127.0.0.1 www.googkle.com
-#127.0.0.1 www.googletagservices.com		#interferes with techrepublic
+#127.0.0.1 www.googletagservices.com  #interferes with techrepublic
 127.0.0.1 www.hitstats.co.uk
 127.0.0.1 www.iccee.com
 127.0.0.1 www.iesnare.com  # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
@@ -7158,7 +7015,7 @@
 127.0.0.1 optimize.doubleclick.net
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 pagead.l.doubleclick.net
-#127.0.0.1 pubads.g.doubleclick.net	#interferes with video on cwtv.com
+#127.0.0.1 pubads.g.doubleclick.net #interferes with video on cwtv.com
 127.0.0.1 rd.intl.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.l.doubleclick.net
@@ -7276,8 +7133,6 @@
 127.0.0.1 warp2search.us.intellitxt.com
 127.0.0.1 wi-fitechnology.uk.intellitxt.com
 127.0.0.1 worldnetdaily.us.intellitxt.com
-#
-
 #
 
 # Red Sheriff and imrworldwide.com  -- server side tracking
@@ -7452,8 +7307,8 @@
 127.0.0.1 apdigitalorg.112.2o7.net
 127.0.0.1 apdigitalorgovn.112.2o7.net
 127.0.0.1 apnonline.112.2o7.net
-#127.0.0.1 appleglobal.112.2o7.net	#breaks apple.com
-#127.0.0.1 applestoreus.112.2o7.net	#breaks apple.com
+#127.0.0.1 appleglobal.112.2o7.net #breaks apple.com
+#127.0.0.1 applestoreus.112.2o7.net #breaks apple.com
 127.0.0.1 atlassian.122.2o7.net
 127.0.0.1 autobytel.112.2o7.net
 127.0.0.1 autoweb.112.2o7.net
@@ -8087,19 +7942,9 @@
 127.0.0.1 www.scribd.com scribd.com 
 127.0.0.1 pt.scribd.com 
 
-# [unityads.com]
+#Unityads.com
 127.0.0.1 unityads.com
 
-
-#######################################################################################################################
-#######################################################################################################################
-### WindowsSpyBlocker - Hosts spy rules
-### License: MIT
-### Updated: 2020-08-24T04:31:00Z02:00
-### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
-### More info: https://github.com/crazy-max/WindowsSpyBlocker
-#######################################################################################################################
-#######################################################################################################################
 127.0.0.1 a.ads1.msn.com
 127.0.0.1 a.ads2.msads.net
 127.0.0.1 a.ads2.msn.com
