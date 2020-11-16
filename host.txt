@@ -3,7 +3,7 @@
 127.0.0.1  localhost
 ::1  localhost
 
-#THis blocks google.com
+#Blocks google.com
 127.0.0.1 google.com
 127.0.0.1 www.google.com
 127.0.0.1 www.google-analytics.com
@@ -18,6 +18,8 @@
 #127.0.0.1 accounts.google.com
 
 #Other
+127.0.0.1 www.experts-exchange.com #Have to pay or create an account to use this site. It's useless.
+127.0.0.1 experts-exchange.com #Have to pay or create an account to use this site. It's useless.
 127.0.0.1 license.sublimehq.com
 127.0.0.1 mp02.maniaplanet.com
 127.0.0.1 mp01.maniaplanet.com
